@@ -2,6 +2,7 @@
 from typing import Any
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld, CollectionState, Item
+from Options import OptionError
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -72,13 +73,17 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
     logging.info(f"before_create_items_all: {item_config}")
     dupe_list = get_option_value(multiworld, player, "duplicate_prototypes")
+    proto_count = 0
     for item_name in item_config:
         item_val = item_config[item_name]
         if isinstance(item_val, int) and item_val >= 1:
             from ..Items import item_name_groups
             if item_name in item_name_groups["Prototypes"]:
+                proto_count += 1
                 if item_name in dupe_list:
                     item_config[item_name] = item_val + 1
+    if proto_count < 6:
+        raise OptionError(f"Not enough Prototypes in the item pool, {proto_count} / 6 required.")
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
