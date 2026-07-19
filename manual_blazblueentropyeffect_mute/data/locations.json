@@ -752,254 +752,254 @@
       "requires": "|Noel| AND |Advanced 80 Entropy Clear (Noel)|"
     },
     {
-      "name": "Lambda -No.11- 1st Stage Clear (Advanced)",
+      "name": "\u039b -No.11- 1st Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-|"
+      "requires": "|\u039b -No.11-|"
     },
     {
-      "name": "Lambda -No.11- 2nd Stage Clear (Advanced)",
+      "name": "\u039b -No.11- 2nd Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):1|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):1|"
     },
     {
-      "name": "Lambda -No.11- 3rd Stage Clear (Advanced)",
+      "name": "\u039b -No.11- 3rd Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):2|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):2|"
     },
     {
-      "name": "Lambda -No.11- 4th Stage Clear (Advanced)",
+      "name": "\u039b -No.11- 4th Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):3|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):3|"
     },
     {
-      "name": "Lambda -No.11- 5th Stage Clear (Advanced)",
+      "name": "\u039b -No.11- 5th Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4|"
     },
     {
-      "name": "Lambda -No.11- 1st Stage Elite Enemy: Watcher",
+      "name": "\u039b -No.11- 1st Stage Elite Enemy: Watcher",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-",
+        "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|Lambda -No.11-|"
+      "requires": "|\u039b -No.11-|"
     },
     {
-      "name": "Lambda -No.11- 1st Stage Elite Enemy: Sweeper",
+      "name": "\u039b -No.11- 1st Stage Elite Enemy: Sweeper",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-",
+        "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|Lambda -No.11-|"
+      "requires": "|\u039b -No.11-|"
     },
     {
-      "name": "Lambda -No.11- 2nd Stage Elite Enemy: Serpent of Destruction",
+      "name": "\u039b -No.11- 2nd Stage Elite Enemy: Serpent of Destruction",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-",
+        "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):1|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):1|"
     },
     {
-      "name": "Lambda -No.11- 2nd Stage Elite Enemy: Tree of Origin",
+      "name": "\u039b -No.11- 2nd Stage Elite Enemy: Tree of Origin",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-",
+        "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):1|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):1|"
     },
     {
-      "name": "Lambda -No.11- 3rd Stage Elite Enemy: Arakune",
+      "name": "\u039b -No.11- 3rd Stage Elite Enemy: Arakune",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-",
+        "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):2|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):2|"
     },
     {
-      "name": "Lambda -No.11- 3rd Stage Elite Enemy: Defiling Eye",
+      "name": "\u039b -No.11- 3rd Stage Elite Enemy: Defiling Eye",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-",
+        "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):2|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):2|"
     },
     {
-      "name": "Lambda -No.11- 4th Stage Elite Enemy: Oread",
+      "name": "\u039b -No.11- 4th Stage Elite Enemy: Oread",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-",
+        "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):3|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):3|"
     },
     {
-      "name": "Lambda -No.11- 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "name": "\u039b -No.11- 4th Stage Elite Enemy: NAN-FIRE BITE",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-",
+        "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):3|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):3|"
     },
     {
-      "name": "Lambda -No.11- 5th Stage Elite Enemy: Floating Mind",
+      "name": "\u039b -No.11- 5th Stage Elite Enemy: Floating Mind",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-",
+        "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4|"
     },
     {
-      "name": "Lambda -No.11- 5th Stage Elite Enemy: NAN-01",
+      "name": "\u039b -No.11- 5th Stage Elite Enemy: NAN-01",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-",
+        "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4|"
     },
     {
-      "name": "Lambda -No.11- Advanced Dive Final Elite Enemy: Susanoo",
+      "name": "\u039b -No.11- Advanced Dive Final Elite Enemy: Susanoo",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-",
+        "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4|"
     },
     {
-      "name": "Lambda -No.11- Dive Complete (Advanced 0 Entropy)",
+      "name": "\u039b -No.11- Dive Complete (Advanced 0 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4|"
     },
     {
-      "name": "Lambda -No.11- Dive Complete (Advanced 20 Entropy)",
+      "name": "\u039b -No.11- Dive Complete (Advanced 20 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
-      "name": "Lambda -No.11- Dive Complete (Advanced 40 Entropy)",
+      "name": "\u039b -No.11- Dive Complete (Advanced 40 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
-      "name": "Lambda -No.11- Dive Complete (Advanced 60 Entropy)",
+      "name": "\u039b -No.11- Dive Complete (Advanced 60 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
-      "name": "Lambda -No.11- Dive Complete (Advanced 80 Entropy)",
+      "name": "\u039b -No.11- Dive Complete (Advanced 80 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
-        "Advanced 80 Entropy Clear (Lambda -No.11-)"
+        "Advanced 80 Entropy Clear (\u039b -No.11-)"
       ]
     },
     {
-      "name": "Lambda -No.11- Dive Complete (Advanced 100 Entropy)",
+      "name": "\u039b -No.11- Dive Complete (Advanced 100 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
-      "name": "Lambda -No.11- Dive Complete (Extreme 0 Entropy)",
+      "name": "\u039b -No.11- Dive Complete (Extreme 0 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)|"
+      "requires": "|\u039b -No.11-| AND |Advanced 80 Entropy Clear (\u039b -No.11-)|"
     },
     {
-      "name": "Lambda -No.11- Dive Complete (Extreme 20 Entropy)",
+      "name": "\u039b -No.11- Dive Complete (Extreme 20 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)| AND |Progressive Extreme Entropy Limit:1|"
+      "requires": "|\u039b -No.11-| AND |Advanced 80 Entropy Clear (\u039b -No.11-)| AND |Progressive Extreme Entropy Limit:1|"
     },
     {
-      "name": "Lambda -No.11- Dive Complete (Extreme 40 Entropy)",
+      "name": "\u039b -No.11- Dive Complete (Extreme 40 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)| AND |Progressive Extreme Entropy Limit:2|"
+      "requires": "|\u039b -No.11-| AND |Advanced 80 Entropy Clear (\u039b -No.11-)| AND |Progressive Extreme Entropy Limit:2|"
     },
     {
-      "name": "Lambda -No.11- Dive Complete (Extreme 60 Entropy)",
+      "name": "\u039b -No.11- Dive Complete (Extreme 60 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)| AND |Progressive Extreme Entropy Limit:3|"
+      "requires": "|\u039b -No.11-| AND |Advanced 80 Entropy Clear (\u039b -No.11-)| AND |Progressive Extreme Entropy Limit:3|"
     },
     {
-      "name": "Lambda -No.11- Dive Complete (Extreme 80 Entropy)",
+      "name": "\u039b -No.11- Dive Complete (Extreme 80 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)| AND |Progressive Extreme Entropy Limit:4|",
+      "requires": "|\u039b -No.11-| AND |Advanced 80 Entropy Clear (\u039b -No.11-)| AND |Progressive Extreme Entropy Limit:4|",
       "place_item": [
-        "Extreme 80 Entropy Clear (Lambda -No.11-)"
+        "Extreme 80 Entropy Clear (\u039b -No.11-)"
       ]
     },
     {
-      "name": "Lambda -No.11- Dive Complete (Extreme 100 Entropy)",
+      "name": "\u039b -No.11- Dive Complete (Extreme 100 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Lambda -No.11-"
+        "\u039b -No.11-"
       ],
-      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)| AND |Progressive Extreme Entropy Limit:5|"
+      "requires": "|\u039b -No.11-| AND |Advanced 80 Entropy Clear (\u039b -No.11-)| AND |Progressive Extreme Entropy Limit:5|"
     },
     {
-      "name": "Lambda -No.11- Extreme Dive Final Elite Enemy: Reki",
+      "name": "\u039b -No.11- Extreme Dive Final Elite Enemy: Reki",
       "region": "Extreme Difficulty",
       "category": [
-        "Lambda -No.11-",
+        "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)|"
+      "requires": "|\u039b -No.11-| AND |Advanced 80 Entropy Clear (\u039b -No.11-)|"
     },
     {
       "name": "Es 1st Stage Clear (Advanced)",
@@ -1255,7 +1255,8 @@
       "name": "Rachel 1st Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel|"
     },
@@ -1263,7 +1264,8 @@
       "name": "Rachel 2nd Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):1|"
     },
@@ -1271,7 +1273,8 @@
       "name": "Rachel 3rd Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):2|"
     },
@@ -1279,7 +1282,8 @@
       "name": "Rachel 4th Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):3|"
     },
@@ -1287,7 +1291,8 @@
       "name": "Rachel 5th Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
     },
@@ -1296,7 +1301,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Rachel",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Rachel|"
     },
@@ -1305,7 +1311,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Rachel",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Rachel|"
     },
@@ -1314,7 +1321,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Rachel",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):1|"
     },
@@ -1323,7 +1331,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Rachel",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):1|"
     },
@@ -1332,7 +1341,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Rachel",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):2|"
     },
@@ -1341,7 +1351,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Rachel",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):2|"
     },
@@ -1350,7 +1361,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Rachel",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):3|"
     },
@@ -1359,7 +1371,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Rachel",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):3|"
     },
@@ -1368,7 +1381,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Rachel",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
     },
@@ -1377,7 +1391,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Rachel",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
     },
@@ -1386,7 +1401,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Rachel",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
     },
@@ -1394,7 +1410,8 @@
       "name": "Rachel Dive Complete (Advanced 0 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
     },
@@ -1402,7 +1419,8 @@
       "name": "Rachel Dive Complete (Advanced 20 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:1|"
     },
@@ -1410,7 +1428,8 @@
       "name": "Rachel Dive Complete (Advanced 40 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:2|"
     },
@@ -1418,7 +1437,8 @@
       "name": "Rachel Dive Complete (Advanced 60 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:3|"
     },
@@ -1426,7 +1446,8 @@
       "name": "Rachel Dive Complete (Advanced 80 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
@@ -1437,7 +1458,8 @@
       "name": "Rachel Dive Complete (Advanced 100 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:5|"
     },
@@ -1445,7 +1467,8 @@
       "name": "Rachel Dive Complete (Extreme 0 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)|"
     },
@@ -1453,7 +1476,8 @@
       "name": "Rachel Dive Complete (Extreme 20 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)| AND |Progressive Extreme Entropy Limit:1|"
     },
@@ -1461,7 +1485,8 @@
       "name": "Rachel Dive Complete (Extreme 40 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)| AND |Progressive Extreme Entropy Limit:2|"
     },
@@ -1469,7 +1494,8 @@
       "name": "Rachel Dive Complete (Extreme 60 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)| AND |Progressive Extreme Entropy Limit:3|"
     },
@@ -1477,7 +1503,8 @@
       "name": "Rachel Dive Complete (Extreme 80 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)| AND |Progressive Extreme Entropy Limit:4|",
       "place_item": [
@@ -1488,7 +1515,8 @@
       "name": "Rachel Dive Complete (Extreme 100 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)| AND |Progressive Extreme Entropy Limit:5|"
     },
@@ -1497,7 +1525,8 @@
       "region": "Extreme Difficulty",
       "category": [
         "Rachel",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)|"
     },
@@ -2755,7 +2784,8 @@
       "name": "Hazama 1st Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama|"
     },
@@ -2763,7 +2793,8 @@
       "name": "Hazama 2nd Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):1|"
     },
@@ -2771,7 +2802,8 @@
       "name": "Hazama 3rd Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):2|"
     },
@@ -2779,7 +2811,8 @@
       "name": "Hazama 4th Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):3|"
     },
@@ -2787,7 +2820,8 @@
       "name": "Hazama 5th Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
     },
@@ -2796,7 +2830,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Hazama",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Hazama|"
     },
@@ -2805,7 +2840,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Hazama",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Hazama|"
     },
@@ -2814,7 +2850,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Hazama",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):1|"
     },
@@ -2823,7 +2860,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Hazama",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):1|"
     },
@@ -2832,7 +2870,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Hazama",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):2|"
     },
@@ -2841,7 +2880,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Hazama",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):2|"
     },
@@ -2850,7 +2890,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Hazama",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):3|"
     },
@@ -2859,7 +2900,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Hazama",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):3|"
     },
@@ -2868,7 +2910,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Hazama",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
     },
@@ -2877,7 +2920,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Hazama",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
     },
@@ -2886,7 +2930,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Hazama",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
     },
@@ -2894,7 +2939,8 @@
       "name": "Hazama Dive Complete (Advanced 0 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
     },
@@ -2902,7 +2948,8 @@
       "name": "Hazama Dive Complete (Advanced 20 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:1|"
     },
@@ -2910,7 +2957,8 @@
       "name": "Hazama Dive Complete (Advanced 40 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:2|"
     },
@@ -2918,7 +2966,8 @@
       "name": "Hazama Dive Complete (Advanced 60 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:3|"
     },
@@ -2926,7 +2975,8 @@
       "name": "Hazama Dive Complete (Advanced 80 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
@@ -2937,7 +2987,8 @@
       "name": "Hazama Dive Complete (Advanced 100 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:5|"
     },
@@ -2945,7 +2996,8 @@
       "name": "Hazama Dive Complete (Extreme 0 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)|"
     },
@@ -2953,7 +3005,8 @@
       "name": "Hazama Dive Complete (Extreme 20 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)| AND |Progressive Extreme Entropy Limit:1|"
     },
@@ -2961,7 +3014,8 @@
       "name": "Hazama Dive Complete (Extreme 40 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)| AND |Progressive Extreme Entropy Limit:2|"
     },
@@ -2969,7 +3023,8 @@
       "name": "Hazama Dive Complete (Extreme 60 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)| AND |Progressive Extreme Entropy Limit:3|"
     },
@@ -2977,7 +3032,8 @@
       "name": "Hazama Dive Complete (Extreme 80 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)| AND |Progressive Extreme Entropy Limit:4|",
       "place_item": [
@@ -2988,7 +3044,8 @@
       "name": "Hazama Dive Complete (Extreme 100 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)| AND |Progressive Extreme Entropy Limit:5|"
     },
@@ -2997,7 +3054,8 @@
       "region": "Extreme Difficulty",
       "category": [
         "Hazama",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)|"
     },
@@ -3255,7 +3313,8 @@
       "name": "Bullet 1st Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet|"
     },
@@ -3263,7 +3322,8 @@
       "name": "Bullet 2nd Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):1|"
     },
@@ -3271,7 +3331,8 @@
       "name": "Bullet 3rd Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):2|"
     },
@@ -3279,7 +3340,8 @@
       "name": "Bullet 4th Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):3|"
     },
@@ -3287,7 +3349,8 @@
       "name": "Bullet 5th Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
     },
@@ -3296,7 +3359,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Bullet",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Bullet|"
     },
@@ -3305,7 +3369,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Bullet",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Bullet|"
     },
@@ -3314,7 +3379,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Bullet",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):1|"
     },
@@ -3323,7 +3389,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Bullet",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):1|"
     },
@@ -3332,7 +3399,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Bullet",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):2|"
     },
@@ -3341,7 +3409,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Bullet",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):2|"
     },
@@ -3350,7 +3419,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Bullet",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):3|"
     },
@@ -3359,7 +3429,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Bullet",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):3|"
     },
@@ -3368,7 +3439,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Bullet",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
     },
@@ -3377,7 +3449,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Bullet",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
     },
@@ -3386,7 +3459,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Bullet",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
     },
@@ -3394,7 +3468,8 @@
       "name": "Bullet Dive Complete (Advanced 0 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
     },
@@ -3402,7 +3477,8 @@
       "name": "Bullet Dive Complete (Advanced 20 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:1|"
     },
@@ -3410,7 +3486,8 @@
       "name": "Bullet Dive Complete (Advanced 40 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:2|"
     },
@@ -3418,7 +3495,8 @@
       "name": "Bullet Dive Complete (Advanced 60 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:3|"
     },
@@ -3426,7 +3504,8 @@
       "name": "Bullet Dive Complete (Advanced 80 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
@@ -3437,7 +3516,8 @@
       "name": "Bullet Dive Complete (Advanced 100 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:5|"
     },
@@ -3445,7 +3525,8 @@
       "name": "Bullet Dive Complete (Extreme 0 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)|"
     },
@@ -3453,7 +3534,8 @@
       "name": "Bullet Dive Complete (Extreme 20 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)| AND |Progressive Extreme Entropy Limit:1|"
     },
@@ -3461,7 +3543,8 @@
       "name": "Bullet Dive Complete (Extreme 40 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)| AND |Progressive Extreme Entropy Limit:2|"
     },
@@ -3469,7 +3552,8 @@
       "name": "Bullet Dive Complete (Extreme 60 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)| AND |Progressive Extreme Entropy Limit:3|"
     },
@@ -3477,7 +3561,8 @@
       "name": "Bullet Dive Complete (Extreme 80 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)| AND |Progressive Extreme Entropy Limit:4|",
       "place_item": [
@@ -3488,7 +3573,8 @@
       "name": "Bullet Dive Complete (Extreme 100 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)| AND |Progressive Extreme Entropy Limit:5|"
     },
@@ -3497,7 +3583,8 @@
       "region": "Extreme Difficulty",
       "category": [
         "Bullet",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)|"
     },
@@ -3755,7 +3842,8 @@
       "name": "Naoto 1st Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto|"
     },
@@ -3763,7 +3851,8 @@
       "name": "Naoto 2nd Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):1|"
     },
@@ -3771,7 +3860,8 @@
       "name": "Naoto 3rd Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):2|"
     },
@@ -3779,7 +3869,8 @@
       "name": "Naoto 4th Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):3|"
     },
@@ -3787,7 +3878,8 @@
       "name": "Naoto 5th Stage Clear (Advanced)",
       "region": "Advanced Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
     },
@@ -3796,7 +3888,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Naoto",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Naoto|"
     },
@@ -3805,7 +3898,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Naoto",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Naoto|"
     },
@@ -3814,7 +3908,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Naoto",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):1|"
     },
@@ -3823,7 +3918,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Naoto",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):1|"
     },
@@ -3832,7 +3928,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Naoto",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):2|"
     },
@@ -3841,7 +3938,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Naoto",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):2|"
     },
@@ -3850,7 +3948,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Naoto",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):3|"
     },
@@ -3859,7 +3958,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Naoto",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):3|"
     },
@@ -3868,7 +3968,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Naoto",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
     },
@@ -3877,7 +3978,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Naoto",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
     },
@@ -3886,7 +3988,8 @@
       "region": "Advanced Difficulty",
       "category": [
         "Naoto",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
     },
@@ -3894,7 +3997,8 @@
       "name": "Naoto Dive Complete (Advanced 0 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
     },
@@ -3902,7 +4006,8 @@
       "name": "Naoto Dive Complete (Advanced 20 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:1|"
     },
@@ -3910,7 +4015,8 @@
       "name": "Naoto Dive Complete (Advanced 40 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:2|"
     },
@@ -3918,7 +4024,8 @@
       "name": "Naoto Dive Complete (Advanced 60 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:3|"
     },
@@ -3926,7 +4033,8 @@
       "name": "Naoto Dive Complete (Advanced 80 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
@@ -3937,7 +4045,8 @@
       "name": "Naoto Dive Complete (Advanced 100 Entropy)",
       "region": "Advanced Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:5|"
     },
@@ -3945,7 +4054,8 @@
       "name": "Naoto Dive Complete (Extreme 0 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)|"
     },
@@ -3953,7 +4063,8 @@
       "name": "Naoto Dive Complete (Extreme 20 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)| AND |Progressive Extreme Entropy Limit:1|"
     },
@@ -3961,7 +4072,8 @@
       "name": "Naoto Dive Complete (Extreme 40 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)| AND |Progressive Extreme Entropy Limit:2|"
     },
@@ -3969,7 +4081,8 @@
       "name": "Naoto Dive Complete (Extreme 60 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)| AND |Progressive Extreme Entropy Limit:3|"
     },
@@ -3977,7 +4090,8 @@
       "name": "Naoto Dive Complete (Extreme 80 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)| AND |Progressive Extreme Entropy Limit:4|",
       "place_item": [
@@ -3988,7 +4102,8 @@
       "name": "Naoto Dive Complete (Extreme 100 Entropy)",
       "region": "Extreme Difficulty",
       "category": [
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)| AND |Progressive Extreme Entropy Limit:5|"
     },
@@ -3997,7 +4112,8 @@
       "region": "Extreme Difficulty",
       "category": [
         "Naoto",
-        "Elite Enemy"
+        "Elite Enemy",
+        "DLC"
       ],
       "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)|"
     },
@@ -4006,7 +4122,7 @@
       "victory": true,
       "region": "Extreme Difficulty",
       "category": [
-        "! Goal"
+        "- Goal -"
       ],
       "requires": "|@Extreme Clear:5|"
     }

@@ -27,7 +27,7 @@
     },
     {
       "count": 1,
-      "name": "Lambda -No.11-",
+      "name": "Λ -No.11-",
       "category": [
         "Prototypes"
       ],
@@ -45,7 +45,8 @@
       "count": 1,
       "name": "Rachel",
       "category": [
-        "Prototypes"
+        "Prototypes",
+        "DLC"
       ],
       "progression": true
     },
@@ -93,7 +94,8 @@
       "count": 1,
       "name": "Hazama",
       "category": [
-        "Prototypes"
+        "Prototypes",
+        "DLC"
       ],
       "progression": true
     },
@@ -109,7 +111,8 @@
       "count": 1,
       "name": "Bullet",
       "category": [
-        "Prototypes"
+        "Prototypes",
+        "DLC"
       ],
       "progression": true
     },
@@ -125,7 +128,8 @@
       "count": 1,
       "name": "Naoto",
       "category": [
-        "Prototypes"
+        "Prototypes",
+        "DLC"
       ],
       "progression": true
     },
@@ -234,28 +238,28 @@
     },
     {
       "count": "4",
-      "name": "Progressive Advanced Stage (Lambda -No.11-)",
+      "name": "Progressive Advanced Stage (Λ -No.11-)",
       "category": [
         "Stage",
-        "Lambda -No.11-"
+        "Λ -No.11-"
       ],
       "progression": true
     },
     {
       "count": 1,
-      "name": "Advanced 80 Entropy Clear (Lambda -No.11-)",
+      "name": "Advanced 80 Entropy Clear (Λ -No.11-)",
       "category": [
         "Advanced Clear",
-        "Lambda -No.11-"
+        "Λ -No.11-"
       ],
       "progression_skip_balancing": true
     },
     {
       "count": 1,
-      "name": "Extreme 80 Entropy Clear (Lambda -No.11-)",
+      "name": "Extreme 80 Entropy Clear (Λ -No.11-)",
       "category": [
         "Extreme Clear",
-        "Lambda -No.11-"
+        "Λ -No.11-"
       ],
       "progression_skip_balancing": true
     },

@@ -1,9 +1,9 @@
 # Object classes from AP that represent different types of options that you can create
-from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionGroup, PerGameCommonOptions
+from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionGroup, PerGameCommonOptions, OptionSet
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
 from typing import Type, Any
-
+from ..Items import item_name_groups
 
 ####################################################################
 # NOTE: At the time that options are created, Manual has no concept of the multiworld or its own world.
@@ -21,6 +21,17 @@ from typing import Type, Any
 # Then, to see if the option is set, you can call is_option_enabled or get_option_value.
 #####################################################################
 
+class IncludeDLCPrototypes(Toggle):
+    """Whether DLC Prototypes should be included in generation. If you don't want all of them, you can pick and choose in excluded_prototypes"""
+    display_name = "Include DLC Prototypes"
+
+class ExcludedPrototypes(OptionSet):
+    """Protoypes in this list will be excluded from generation completely. There must be at least 5 Protoypes in the pool. 
+    Valid list of Prototypes:
+    Hibiki, Ragna, Noel, Λ -No.11-, Es, Rachel, Taokaka, Jin, Kokonoe, Hakumen, Mai, Hazama, ICEY, Bullet, The Prisoner, Naoto"""
+    display_name = "Excluded Prototypes"
+    valid_keys = item_name_groups["Prototypes"]
+    default = []
 
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
@@ -34,6 +45,8 @@ class TotalCharactersToWinWith(Range):
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
+    options["include_dlc_prototypes"] = IncludeDLCPrototypes
+    options["excluded_prototypes"] = ExcludedPrototypes
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
