@@ -26,10 +26,19 @@ class IncludeDLCPrototypes(Toggle):
     display_name = "Include DLC Prototypes"
 
 class ExcludedPrototypes(OptionSet):
-    """Protoypes in this list will be excluded from generation completely. There must be at least 5 Protoypes in the pool. 
+    """Protoypes in this list will be excluded from generation completely. There must be at least 6 unique Protoypes in the pool. 
     Valid list of Prototypes:
     Hibiki, Ragna, Noel, Λ -No.11-, Es, Rachel, Taokaka, Jin, Kokonoe, Hakumen, Mai, Hazama, ICEY, Bullet, The Prisoner, Naoto"""
     display_name = "Excluded Prototypes"
+    valid_keys = item_name_groups["Prototypes"]
+    default = []
+
+class DuplicatePrototypes(OptionSet):
+    """Prototypes in this list will be duplicated in generation, increasing the chances of getting them.
+    There's no guarantee where the duplicate will appear. Getting a Prototype twice does nothing. Excluded Protoypes are ignored. 
+    Valid list of Prototypes:
+    Hibiki, Ragna, Noel, Λ -No.11-, Es, Rachel, Taokaka, Jin, Kokonoe, Hakumen, Mai, Hazama, ICEY, Bullet, The Prisoner, Naoto"""
+    display_name = "Duplicate Prototypes"
     valid_keys = item_name_groups["Prototypes"]
     default = []
 
@@ -47,6 +56,7 @@ class TotalCharactersToWinWith(Range):
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
     options["include_dlc_prototypes"] = IncludeDLCPrototypes
     options["excluded_prototypes"] = ExcludedPrototypes
+    options["duplicate_prototypes"] = DuplicatePrototypes
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
