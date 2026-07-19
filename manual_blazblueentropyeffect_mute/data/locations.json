@@ -1,0 +1,4014 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Hibiki 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki|"
+    },
+    {
+      "name": "Hibiki 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):1|"
+    },
+    {
+      "name": "Hibiki 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):2|"
+    },
+    {
+      "name": "Hibiki 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):3|"
+    },
+    {
+      "name": "Hibiki 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4|"
+    },
+    {
+      "name": "Hibiki 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki",
+        "Elite Enemy"
+      ],
+      "requires": "|Hibiki|"
+    },
+    {
+      "name": "Hibiki 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki",
+        "Elite Enemy"
+      ],
+      "requires": "|Hibiki|"
+    },
+    {
+      "name": "Hibiki 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki",
+        "Elite Enemy"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):1|"
+    },
+    {
+      "name": "Hibiki 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki",
+        "Elite Enemy"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):1|"
+    },
+    {
+      "name": "Hibiki 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki",
+        "Elite Enemy"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):2|"
+    },
+    {
+      "name": "Hibiki 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki",
+        "Elite Enemy"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):2|"
+    },
+    {
+      "name": "Hibiki 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki",
+        "Elite Enemy"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):3|"
+    },
+    {
+      "name": "Hibiki 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki",
+        "Elite Enemy"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):3|"
+    },
+    {
+      "name": "Hibiki 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki",
+        "Elite Enemy"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4|"
+    },
+    {
+      "name": "Hibiki 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki",
+        "Elite Enemy"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4|"
+    },
+    {
+      "name": "Hibiki Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki",
+        "Elite Enemy"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4|"
+    },
+    {
+      "name": "Hibiki Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4|"
+    },
+    {
+      "name": "Hibiki Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Hibiki Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Hibiki Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Hibiki Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Hibiki)"
+      ]
+    },
+    {
+      "name": "Hibiki Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Hibiki Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Advanced 80 Entropy Clear (Hibiki)|"
+    },
+    {
+      "name": "Hibiki Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Advanced 80 Entropy Clear (Hibiki)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Hibiki Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Advanced 80 Entropy Clear (Hibiki)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Hibiki Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Advanced 80 Entropy Clear (Hibiki)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Hibiki Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Advanced 80 Entropy Clear (Hibiki)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Hibiki)"
+      ]
+    },
+    {
+      "name": "Hibiki Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hibiki"
+      ],
+      "requires": "|Hibiki| AND |Advanced 80 Entropy Clear (Hibiki)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Hibiki Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hibiki",
+        "Elite Enemy"
+      ],
+      "requires": "|Hibiki| AND |Advanced 80 Entropy Clear (Hibiki)|"
+    },
+    {
+      "name": "Ragna 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna|"
+    },
+    {
+      "name": "Ragna 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):1|"
+    },
+    {
+      "name": "Ragna 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):2|"
+    },
+    {
+      "name": "Ragna 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):3|"
+    },
+    {
+      "name": "Ragna 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4|"
+    },
+    {
+      "name": "Ragna 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna",
+        "Elite Enemy"
+      ],
+      "requires": "|Ragna|"
+    },
+    {
+      "name": "Ragna 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna",
+        "Elite Enemy"
+      ],
+      "requires": "|Ragna|"
+    },
+    {
+      "name": "Ragna 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna",
+        "Elite Enemy"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):1|"
+    },
+    {
+      "name": "Ragna 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna",
+        "Elite Enemy"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):1|"
+    },
+    {
+      "name": "Ragna 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna",
+        "Elite Enemy"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):2|"
+    },
+    {
+      "name": "Ragna 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna",
+        "Elite Enemy"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):2|"
+    },
+    {
+      "name": "Ragna 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna",
+        "Elite Enemy"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):3|"
+    },
+    {
+      "name": "Ragna 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna",
+        "Elite Enemy"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):3|"
+    },
+    {
+      "name": "Ragna 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna",
+        "Elite Enemy"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4|"
+    },
+    {
+      "name": "Ragna 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna",
+        "Elite Enemy"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4|"
+    },
+    {
+      "name": "Ragna Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna",
+        "Elite Enemy"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4|"
+    },
+    {
+      "name": "Ragna Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4|"
+    },
+    {
+      "name": "Ragna Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Ragna Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Ragna Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Ragna Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Ragna)"
+      ]
+    },
+    {
+      "name": "Ragna Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Ragna Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Advanced 80 Entropy Clear (Ragna)|"
+    },
+    {
+      "name": "Ragna Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Advanced 80 Entropy Clear (Ragna)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Ragna Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Advanced 80 Entropy Clear (Ragna)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Ragna Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Advanced 80 Entropy Clear (Ragna)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Ragna Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Advanced 80 Entropy Clear (Ragna)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Ragna)"
+      ]
+    },
+    {
+      "name": "Ragna Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Ragna"
+      ],
+      "requires": "|Ragna| AND |Advanced 80 Entropy Clear (Ragna)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Ragna Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Ragna",
+        "Elite Enemy"
+      ],
+      "requires": "|Ragna| AND |Advanced 80 Entropy Clear (Ragna)|"
+    },
+    {
+      "name": "Noel 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel|"
+    },
+    {
+      "name": "Noel 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):1|"
+    },
+    {
+      "name": "Noel 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):2|"
+    },
+    {
+      "name": "Noel 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):3|"
+    },
+    {
+      "name": "Noel 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4|"
+    },
+    {
+      "name": "Noel 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel",
+        "Elite Enemy"
+      ],
+      "requires": "|Noel|"
+    },
+    {
+      "name": "Noel 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel",
+        "Elite Enemy"
+      ],
+      "requires": "|Noel|"
+    },
+    {
+      "name": "Noel 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel",
+        "Elite Enemy"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):1|"
+    },
+    {
+      "name": "Noel 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel",
+        "Elite Enemy"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):1|"
+    },
+    {
+      "name": "Noel 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel",
+        "Elite Enemy"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):2|"
+    },
+    {
+      "name": "Noel 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel",
+        "Elite Enemy"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):2|"
+    },
+    {
+      "name": "Noel 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel",
+        "Elite Enemy"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):3|"
+    },
+    {
+      "name": "Noel 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel",
+        "Elite Enemy"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):3|"
+    },
+    {
+      "name": "Noel 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel",
+        "Elite Enemy"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4|"
+    },
+    {
+      "name": "Noel 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel",
+        "Elite Enemy"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4|"
+    },
+    {
+      "name": "Noel Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel",
+        "Elite Enemy"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4|"
+    },
+    {
+      "name": "Noel Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4|"
+    },
+    {
+      "name": "Noel Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Noel Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Noel Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Noel Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Noel)"
+      ]
+    },
+    {
+      "name": "Noel Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Noel Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Advanced 80 Entropy Clear (Noel)|"
+    },
+    {
+      "name": "Noel Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Advanced 80 Entropy Clear (Noel)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Noel Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Advanced 80 Entropy Clear (Noel)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Noel Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Advanced 80 Entropy Clear (Noel)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Noel Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Advanced 80 Entropy Clear (Noel)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Noel)"
+      ]
+    },
+    {
+      "name": "Noel Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Noel"
+      ],
+      "requires": "|Noel| AND |Advanced 80 Entropy Clear (Noel)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Noel Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Noel",
+        "Elite Enemy"
+      ],
+      "requires": "|Noel| AND |Advanced 80 Entropy Clear (Noel)|"
+    },
+    {
+      "name": "Lambda -No.11- 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-|"
+    },
+    {
+      "name": "Lambda -No.11- 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):1|"
+    },
+    {
+      "name": "Lambda -No.11- 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):2|"
+    },
+    {
+      "name": "Lambda -No.11- 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):3|"
+    },
+    {
+      "name": "Lambda -No.11- 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4|"
+    },
+    {
+      "name": "Lambda -No.11- 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-",
+        "Elite Enemy"
+      ],
+      "requires": "|Lambda -No.11-|"
+    },
+    {
+      "name": "Lambda -No.11- 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-",
+        "Elite Enemy"
+      ],
+      "requires": "|Lambda -No.11-|"
+    },
+    {
+      "name": "Lambda -No.11- 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-",
+        "Elite Enemy"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):1|"
+    },
+    {
+      "name": "Lambda -No.11- 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-",
+        "Elite Enemy"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):1|"
+    },
+    {
+      "name": "Lambda -No.11- 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-",
+        "Elite Enemy"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):2|"
+    },
+    {
+      "name": "Lambda -No.11- 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-",
+        "Elite Enemy"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):2|"
+    },
+    {
+      "name": "Lambda -No.11- 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-",
+        "Elite Enemy"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):3|"
+    },
+    {
+      "name": "Lambda -No.11- 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-",
+        "Elite Enemy"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):3|"
+    },
+    {
+      "name": "Lambda -No.11- 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-",
+        "Elite Enemy"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4|"
+    },
+    {
+      "name": "Lambda -No.11- 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-",
+        "Elite Enemy"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4|"
+    },
+    {
+      "name": "Lambda -No.11- Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-",
+        "Elite Enemy"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4|"
+    },
+    {
+      "name": "Lambda -No.11- Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4|"
+    },
+    {
+      "name": "Lambda -No.11- Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Lambda -No.11- Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Lambda -No.11- Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Lambda -No.11- Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Lambda -No.11-)"
+      ]
+    },
+    {
+      "name": "Lambda -No.11- Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Progressive Advanced Stage (Lambda -No.11-):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Lambda -No.11- Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)|"
+    },
+    {
+      "name": "Lambda -No.11- Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Lambda -No.11- Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Lambda -No.11- Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Lambda -No.11- Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Lambda -No.11-)"
+      ]
+    },
+    {
+      "name": "Lambda -No.11- Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Lambda -No.11-"
+      ],
+      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Lambda -No.11- Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Lambda -No.11-",
+        "Elite Enemy"
+      ],
+      "requires": "|Lambda -No.11-| AND |Advanced 80 Entropy Clear (Lambda -No.11-)|"
+    },
+    {
+      "name": "Es 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es|"
+    },
+    {
+      "name": "Es 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):1|"
+    },
+    {
+      "name": "Es 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):2|"
+    },
+    {
+      "name": "Es 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):3|"
+    },
+    {
+      "name": "Es 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):4|"
+    },
+    {
+      "name": "Es 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es",
+        "Elite Enemy"
+      ],
+      "requires": "|Es|"
+    },
+    {
+      "name": "Es 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es",
+        "Elite Enemy"
+      ],
+      "requires": "|Es|"
+    },
+    {
+      "name": "Es 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es",
+        "Elite Enemy"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):1|"
+    },
+    {
+      "name": "Es 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es",
+        "Elite Enemy"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):1|"
+    },
+    {
+      "name": "Es 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es",
+        "Elite Enemy"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):2|"
+    },
+    {
+      "name": "Es 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es",
+        "Elite Enemy"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):2|"
+    },
+    {
+      "name": "Es 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es",
+        "Elite Enemy"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):3|"
+    },
+    {
+      "name": "Es 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es",
+        "Elite Enemy"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):3|"
+    },
+    {
+      "name": "Es 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es",
+        "Elite Enemy"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):4|"
+    },
+    {
+      "name": "Es 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es",
+        "Elite Enemy"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):4|"
+    },
+    {
+      "name": "Es Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es",
+        "Elite Enemy"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):4|"
+    },
+    {
+      "name": "Es Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):4|"
+    },
+    {
+      "name": "Es Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Es Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Es Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Es Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Es)"
+      ]
+    },
+    {
+      "name": "Es Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Es Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Advanced 80 Entropy Clear (Es)|"
+    },
+    {
+      "name": "Es Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Advanced 80 Entropy Clear (Es)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Es Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Advanced 80 Entropy Clear (Es)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Es Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Advanced 80 Entropy Clear (Es)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Es Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Advanced 80 Entropy Clear (Es)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Es)"
+      ]
+    },
+    {
+      "name": "Es Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Es"
+      ],
+      "requires": "|Es| AND |Advanced 80 Entropy Clear (Es)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Es Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Es",
+        "Elite Enemy"
+      ],
+      "requires": "|Es| AND |Advanced 80 Entropy Clear (Es)|"
+    },
+    {
+      "name": "Rachel 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel|"
+    },
+    {
+      "name": "Rachel 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):1|"
+    },
+    {
+      "name": "Rachel 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):2|"
+    },
+    {
+      "name": "Rachel 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):3|"
+    },
+    {
+      "name": "Rachel 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
+    },
+    {
+      "name": "Rachel 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel",
+        "Elite Enemy"
+      ],
+      "requires": "|Rachel|"
+    },
+    {
+      "name": "Rachel 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel",
+        "Elite Enemy"
+      ],
+      "requires": "|Rachel|"
+    },
+    {
+      "name": "Rachel 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel",
+        "Elite Enemy"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):1|"
+    },
+    {
+      "name": "Rachel 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel",
+        "Elite Enemy"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):1|"
+    },
+    {
+      "name": "Rachel 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel",
+        "Elite Enemy"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):2|"
+    },
+    {
+      "name": "Rachel 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel",
+        "Elite Enemy"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):2|"
+    },
+    {
+      "name": "Rachel 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel",
+        "Elite Enemy"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):3|"
+    },
+    {
+      "name": "Rachel 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel",
+        "Elite Enemy"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):3|"
+    },
+    {
+      "name": "Rachel 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel",
+        "Elite Enemy"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
+    },
+    {
+      "name": "Rachel 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel",
+        "Elite Enemy"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
+    },
+    {
+      "name": "Rachel Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel",
+        "Elite Enemy"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
+    },
+    {
+      "name": "Rachel Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
+    },
+    {
+      "name": "Rachel Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Rachel Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Rachel Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Rachel Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Rachel)"
+      ]
+    },
+    {
+      "name": "Rachel Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Rachel Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)|"
+    },
+    {
+      "name": "Rachel Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Rachel Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Rachel Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Rachel Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Rachel)"
+      ]
+    },
+    {
+      "name": "Rachel Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Rachel"
+      ],
+      "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Rachel Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Rachel",
+        "Elite Enemy"
+      ],
+      "requires": "|Rachel| AND |Advanced 80 Entropy Clear (Rachel)|"
+    },
+    {
+      "name": "Taokaka 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka|"
+    },
+    {
+      "name": "Taokaka 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):1|"
+    },
+    {
+      "name": "Taokaka 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):2|"
+    },
+    {
+      "name": "Taokaka 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):3|"
+    },
+    {
+      "name": "Taokaka 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4|"
+    },
+    {
+      "name": "Taokaka 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka",
+        "Elite Enemy"
+      ],
+      "requires": "|Taokaka|"
+    },
+    {
+      "name": "Taokaka 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka",
+        "Elite Enemy"
+      ],
+      "requires": "|Taokaka|"
+    },
+    {
+      "name": "Taokaka 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka",
+        "Elite Enemy"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):1|"
+    },
+    {
+      "name": "Taokaka 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka",
+        "Elite Enemy"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):1|"
+    },
+    {
+      "name": "Taokaka 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka",
+        "Elite Enemy"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):2|"
+    },
+    {
+      "name": "Taokaka 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka",
+        "Elite Enemy"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):2|"
+    },
+    {
+      "name": "Taokaka 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka",
+        "Elite Enemy"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):3|"
+    },
+    {
+      "name": "Taokaka 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka",
+        "Elite Enemy"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):3|"
+    },
+    {
+      "name": "Taokaka 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka",
+        "Elite Enemy"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4|"
+    },
+    {
+      "name": "Taokaka 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka",
+        "Elite Enemy"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4|"
+    },
+    {
+      "name": "Taokaka Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka",
+        "Elite Enemy"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4|"
+    },
+    {
+      "name": "Taokaka Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4|"
+    },
+    {
+      "name": "Taokaka Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Taokaka Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Taokaka Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Taokaka Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Taokaka)"
+      ]
+    },
+    {
+      "name": "Taokaka Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Taokaka Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Advanced 80 Entropy Clear (Taokaka)|"
+    },
+    {
+      "name": "Taokaka Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Advanced 80 Entropy Clear (Taokaka)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Taokaka Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Advanced 80 Entropy Clear (Taokaka)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Taokaka Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Advanced 80 Entropy Clear (Taokaka)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Taokaka Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Advanced 80 Entropy Clear (Taokaka)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Taokaka)"
+      ]
+    },
+    {
+      "name": "Taokaka Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Taokaka"
+      ],
+      "requires": "|Taokaka| AND |Advanced 80 Entropy Clear (Taokaka)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Taokaka Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Taokaka",
+        "Elite Enemy"
+      ],
+      "requires": "|Taokaka| AND |Advanced 80 Entropy Clear (Taokaka)|"
+    },
+    {
+      "name": "Jin 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin|"
+    },
+    {
+      "name": "Jin 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):1|"
+    },
+    {
+      "name": "Jin 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):2|"
+    },
+    {
+      "name": "Jin 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):3|"
+    },
+    {
+      "name": "Jin 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4|"
+    },
+    {
+      "name": "Jin 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin",
+        "Elite Enemy"
+      ],
+      "requires": "|Jin|"
+    },
+    {
+      "name": "Jin 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin",
+        "Elite Enemy"
+      ],
+      "requires": "|Jin|"
+    },
+    {
+      "name": "Jin 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin",
+        "Elite Enemy"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):1|"
+    },
+    {
+      "name": "Jin 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin",
+        "Elite Enemy"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):1|"
+    },
+    {
+      "name": "Jin 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin",
+        "Elite Enemy"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):2|"
+    },
+    {
+      "name": "Jin 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin",
+        "Elite Enemy"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):2|"
+    },
+    {
+      "name": "Jin 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin",
+        "Elite Enemy"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):3|"
+    },
+    {
+      "name": "Jin 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin",
+        "Elite Enemy"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):3|"
+    },
+    {
+      "name": "Jin 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin",
+        "Elite Enemy"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4|"
+    },
+    {
+      "name": "Jin 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin",
+        "Elite Enemy"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4|"
+    },
+    {
+      "name": "Jin Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin",
+        "Elite Enemy"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4|"
+    },
+    {
+      "name": "Jin Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4|"
+    },
+    {
+      "name": "Jin Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Jin Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Jin Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Jin Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Jin)"
+      ]
+    },
+    {
+      "name": "Jin Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Jin Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Advanced 80 Entropy Clear (Jin)|"
+    },
+    {
+      "name": "Jin Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Advanced 80 Entropy Clear (Jin)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Jin Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Advanced 80 Entropy Clear (Jin)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Jin Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Advanced 80 Entropy Clear (Jin)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Jin Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Advanced 80 Entropy Clear (Jin)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Jin)"
+      ]
+    },
+    {
+      "name": "Jin Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Jin"
+      ],
+      "requires": "|Jin| AND |Advanced 80 Entropy Clear (Jin)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Jin Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Jin",
+        "Elite Enemy"
+      ],
+      "requires": "|Jin| AND |Advanced 80 Entropy Clear (Jin)|"
+    },
+    {
+      "name": "Kokonoe 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe|"
+    },
+    {
+      "name": "Kokonoe 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):1|"
+    },
+    {
+      "name": "Kokonoe 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):2|"
+    },
+    {
+      "name": "Kokonoe 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):3|"
+    },
+    {
+      "name": "Kokonoe 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4|"
+    },
+    {
+      "name": "Kokonoe 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe",
+        "Elite Enemy"
+      ],
+      "requires": "|Kokonoe|"
+    },
+    {
+      "name": "Kokonoe 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe",
+        "Elite Enemy"
+      ],
+      "requires": "|Kokonoe|"
+    },
+    {
+      "name": "Kokonoe 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe",
+        "Elite Enemy"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):1|"
+    },
+    {
+      "name": "Kokonoe 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe",
+        "Elite Enemy"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):1|"
+    },
+    {
+      "name": "Kokonoe 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe",
+        "Elite Enemy"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):2|"
+    },
+    {
+      "name": "Kokonoe 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe",
+        "Elite Enemy"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):2|"
+    },
+    {
+      "name": "Kokonoe 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe",
+        "Elite Enemy"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):3|"
+    },
+    {
+      "name": "Kokonoe 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe",
+        "Elite Enemy"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):3|"
+    },
+    {
+      "name": "Kokonoe 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe",
+        "Elite Enemy"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4|"
+    },
+    {
+      "name": "Kokonoe 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe",
+        "Elite Enemy"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4|"
+    },
+    {
+      "name": "Kokonoe Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe",
+        "Elite Enemy"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4|"
+    },
+    {
+      "name": "Kokonoe Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4|"
+    },
+    {
+      "name": "Kokonoe Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Kokonoe Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Kokonoe Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Kokonoe Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Kokonoe)"
+      ]
+    },
+    {
+      "name": "Kokonoe Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Kokonoe Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Advanced 80 Entropy Clear (Kokonoe)|"
+    },
+    {
+      "name": "Kokonoe Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Advanced 80 Entropy Clear (Kokonoe)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Kokonoe Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Advanced 80 Entropy Clear (Kokonoe)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Kokonoe Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Advanced 80 Entropy Clear (Kokonoe)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Kokonoe Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Advanced 80 Entropy Clear (Kokonoe)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Kokonoe)"
+      ]
+    },
+    {
+      "name": "Kokonoe Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Kokonoe"
+      ],
+      "requires": "|Kokonoe| AND |Advanced 80 Entropy Clear (Kokonoe)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Kokonoe Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Kokonoe",
+        "Elite Enemy"
+      ],
+      "requires": "|Kokonoe| AND |Advanced 80 Entropy Clear (Kokonoe)|"
+    },
+    {
+      "name": "Hakumen 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen|"
+    },
+    {
+      "name": "Hakumen 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):1|"
+    },
+    {
+      "name": "Hakumen 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):2|"
+    },
+    {
+      "name": "Hakumen 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):3|"
+    },
+    {
+      "name": "Hakumen 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4|"
+    },
+    {
+      "name": "Hakumen 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen",
+        "Elite Enemy"
+      ],
+      "requires": "|Hakumen|"
+    },
+    {
+      "name": "Hakumen 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen",
+        "Elite Enemy"
+      ],
+      "requires": "|Hakumen|"
+    },
+    {
+      "name": "Hakumen 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen",
+        "Elite Enemy"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):1|"
+    },
+    {
+      "name": "Hakumen 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen",
+        "Elite Enemy"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):1|"
+    },
+    {
+      "name": "Hakumen 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen",
+        "Elite Enemy"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):2|"
+    },
+    {
+      "name": "Hakumen 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen",
+        "Elite Enemy"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):2|"
+    },
+    {
+      "name": "Hakumen 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen",
+        "Elite Enemy"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):3|"
+    },
+    {
+      "name": "Hakumen 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen",
+        "Elite Enemy"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):3|"
+    },
+    {
+      "name": "Hakumen 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen",
+        "Elite Enemy"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4|"
+    },
+    {
+      "name": "Hakumen 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen",
+        "Elite Enemy"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4|"
+    },
+    {
+      "name": "Hakumen Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen",
+        "Elite Enemy"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4|"
+    },
+    {
+      "name": "Hakumen Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4|"
+    },
+    {
+      "name": "Hakumen Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Hakumen Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Hakumen Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Hakumen Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Hakumen)"
+      ]
+    },
+    {
+      "name": "Hakumen Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Hakumen Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Advanced 80 Entropy Clear (Hakumen)|"
+    },
+    {
+      "name": "Hakumen Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Advanced 80 Entropy Clear (Hakumen)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Hakumen Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Advanced 80 Entropy Clear (Hakumen)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Hakumen Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Advanced 80 Entropy Clear (Hakumen)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Hakumen Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Advanced 80 Entropy Clear (Hakumen)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Hakumen)"
+      ]
+    },
+    {
+      "name": "Hakumen Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hakumen"
+      ],
+      "requires": "|Hakumen| AND |Advanced 80 Entropy Clear (Hakumen)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Hakumen Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hakumen",
+        "Elite Enemy"
+      ],
+      "requires": "|Hakumen| AND |Advanced 80 Entropy Clear (Hakumen)|"
+    },
+    {
+      "name": "Mai 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai|"
+    },
+    {
+      "name": "Mai 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):1|"
+    },
+    {
+      "name": "Mai 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):2|"
+    },
+    {
+      "name": "Mai 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):3|"
+    },
+    {
+      "name": "Mai 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4|"
+    },
+    {
+      "name": "Mai 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai",
+        "Elite Enemy"
+      ],
+      "requires": "|Mai|"
+    },
+    {
+      "name": "Mai 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai",
+        "Elite Enemy"
+      ],
+      "requires": "|Mai|"
+    },
+    {
+      "name": "Mai 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai",
+        "Elite Enemy"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):1|"
+    },
+    {
+      "name": "Mai 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai",
+        "Elite Enemy"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):1|"
+    },
+    {
+      "name": "Mai 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai",
+        "Elite Enemy"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):2|"
+    },
+    {
+      "name": "Mai 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai",
+        "Elite Enemy"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):2|"
+    },
+    {
+      "name": "Mai 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai",
+        "Elite Enemy"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):3|"
+    },
+    {
+      "name": "Mai 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai",
+        "Elite Enemy"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):3|"
+    },
+    {
+      "name": "Mai 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai",
+        "Elite Enemy"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4|"
+    },
+    {
+      "name": "Mai 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai",
+        "Elite Enemy"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4|"
+    },
+    {
+      "name": "Mai Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai",
+        "Elite Enemy"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4|"
+    },
+    {
+      "name": "Mai Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4|"
+    },
+    {
+      "name": "Mai Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Mai Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Mai Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Mai Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Mai)"
+      ]
+    },
+    {
+      "name": "Mai Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Mai Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Advanced 80 Entropy Clear (Mai)|"
+    },
+    {
+      "name": "Mai Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Advanced 80 Entropy Clear (Mai)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Mai Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Advanced 80 Entropy Clear (Mai)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Mai Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Advanced 80 Entropy Clear (Mai)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Mai Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Advanced 80 Entropy Clear (Mai)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Mai)"
+      ]
+    },
+    {
+      "name": "Mai Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Mai"
+      ],
+      "requires": "|Mai| AND |Advanced 80 Entropy Clear (Mai)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Mai Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Mai",
+        "Elite Enemy"
+      ],
+      "requires": "|Mai| AND |Advanced 80 Entropy Clear (Mai)|"
+    },
+    {
+      "name": "Hazama 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama|"
+    },
+    {
+      "name": "Hazama 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):1|"
+    },
+    {
+      "name": "Hazama 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):2|"
+    },
+    {
+      "name": "Hazama 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):3|"
+    },
+    {
+      "name": "Hazama 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
+    },
+    {
+      "name": "Hazama 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama",
+        "Elite Enemy"
+      ],
+      "requires": "|Hazama|"
+    },
+    {
+      "name": "Hazama 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama",
+        "Elite Enemy"
+      ],
+      "requires": "|Hazama|"
+    },
+    {
+      "name": "Hazama 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama",
+        "Elite Enemy"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):1|"
+    },
+    {
+      "name": "Hazama 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama",
+        "Elite Enemy"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):1|"
+    },
+    {
+      "name": "Hazama 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama",
+        "Elite Enemy"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):2|"
+    },
+    {
+      "name": "Hazama 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama",
+        "Elite Enemy"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):2|"
+    },
+    {
+      "name": "Hazama 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama",
+        "Elite Enemy"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):3|"
+    },
+    {
+      "name": "Hazama 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama",
+        "Elite Enemy"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):3|"
+    },
+    {
+      "name": "Hazama 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama",
+        "Elite Enemy"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
+    },
+    {
+      "name": "Hazama 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama",
+        "Elite Enemy"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
+    },
+    {
+      "name": "Hazama Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama",
+        "Elite Enemy"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
+    },
+    {
+      "name": "Hazama Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
+    },
+    {
+      "name": "Hazama Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Hazama Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Hazama Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Hazama Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Hazama)"
+      ]
+    },
+    {
+      "name": "Hazama Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Hazama Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)|"
+    },
+    {
+      "name": "Hazama Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Hazama Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Hazama Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Hazama Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Hazama)"
+      ]
+    },
+    {
+      "name": "Hazama Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hazama"
+      ],
+      "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Hazama Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Hazama",
+        "Elite Enemy"
+      ],
+      "requires": "|Hazama| AND |Advanced 80 Entropy Clear (Hazama)|"
+    },
+    {
+      "name": "ICEY 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY|"
+    },
+    {
+      "name": "ICEY 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):1|"
+    },
+    {
+      "name": "ICEY 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):2|"
+    },
+    {
+      "name": "ICEY 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):3|"
+    },
+    {
+      "name": "ICEY 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4|"
+    },
+    {
+      "name": "ICEY 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY",
+        "Elite Enemy"
+      ],
+      "requires": "|ICEY|"
+    },
+    {
+      "name": "ICEY 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY",
+        "Elite Enemy"
+      ],
+      "requires": "|ICEY|"
+    },
+    {
+      "name": "ICEY 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY",
+        "Elite Enemy"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):1|"
+    },
+    {
+      "name": "ICEY 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY",
+        "Elite Enemy"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):1|"
+    },
+    {
+      "name": "ICEY 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY",
+        "Elite Enemy"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):2|"
+    },
+    {
+      "name": "ICEY 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY",
+        "Elite Enemy"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):2|"
+    },
+    {
+      "name": "ICEY 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY",
+        "Elite Enemy"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):3|"
+    },
+    {
+      "name": "ICEY 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY",
+        "Elite Enemy"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):3|"
+    },
+    {
+      "name": "ICEY 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY",
+        "Elite Enemy"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4|"
+    },
+    {
+      "name": "ICEY 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY",
+        "Elite Enemy"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4|"
+    },
+    {
+      "name": "ICEY Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY",
+        "Elite Enemy"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4|"
+    },
+    {
+      "name": "ICEY Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4|"
+    },
+    {
+      "name": "ICEY Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "ICEY Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "ICEY Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "ICEY Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (ICEY)"
+      ]
+    },
+    {
+      "name": "ICEY Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "ICEY Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Advanced 80 Entropy Clear (ICEY)|"
+    },
+    {
+      "name": "ICEY Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Advanced 80 Entropy Clear (ICEY)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "ICEY Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Advanced 80 Entropy Clear (ICEY)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "ICEY Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Advanced 80 Entropy Clear (ICEY)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "ICEY Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Advanced 80 Entropy Clear (ICEY)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (ICEY)"
+      ]
+    },
+    {
+      "name": "ICEY Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "ICEY"
+      ],
+      "requires": "|ICEY| AND |Advanced 80 Entropy Clear (ICEY)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "ICEY Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "ICEY",
+        "Elite Enemy"
+      ],
+      "requires": "|ICEY| AND |Advanced 80 Entropy Clear (ICEY)|"
+    },
+    {
+      "name": "Bullet 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet|"
+    },
+    {
+      "name": "Bullet 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):1|"
+    },
+    {
+      "name": "Bullet 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):2|"
+    },
+    {
+      "name": "Bullet 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):3|"
+    },
+    {
+      "name": "Bullet 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
+    },
+    {
+      "name": "Bullet 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet",
+        "Elite Enemy"
+      ],
+      "requires": "|Bullet|"
+    },
+    {
+      "name": "Bullet 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet",
+        "Elite Enemy"
+      ],
+      "requires": "|Bullet|"
+    },
+    {
+      "name": "Bullet 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet",
+        "Elite Enemy"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):1|"
+    },
+    {
+      "name": "Bullet 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet",
+        "Elite Enemy"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):1|"
+    },
+    {
+      "name": "Bullet 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet",
+        "Elite Enemy"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):2|"
+    },
+    {
+      "name": "Bullet 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet",
+        "Elite Enemy"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):2|"
+    },
+    {
+      "name": "Bullet 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet",
+        "Elite Enemy"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):3|"
+    },
+    {
+      "name": "Bullet 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet",
+        "Elite Enemy"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):3|"
+    },
+    {
+      "name": "Bullet 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet",
+        "Elite Enemy"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
+    },
+    {
+      "name": "Bullet 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet",
+        "Elite Enemy"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
+    },
+    {
+      "name": "Bullet Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet",
+        "Elite Enemy"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
+    },
+    {
+      "name": "Bullet Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
+    },
+    {
+      "name": "Bullet Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Bullet Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Bullet Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Bullet Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Bullet)"
+      ]
+    },
+    {
+      "name": "Bullet Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Bullet Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)|"
+    },
+    {
+      "name": "Bullet Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Bullet Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Bullet Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Bullet Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Bullet)"
+      ]
+    },
+    {
+      "name": "Bullet Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Bullet"
+      ],
+      "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Bullet Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Bullet",
+        "Elite Enemy"
+      ],
+      "requires": "|Bullet| AND |Advanced 80 Entropy Clear (Bullet)|"
+    },
+    {
+      "name": "The Prisoner 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner|"
+    },
+    {
+      "name": "The Prisoner 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):1|"
+    },
+    {
+      "name": "The Prisoner 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):2|"
+    },
+    {
+      "name": "The Prisoner 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):3|"
+    },
+    {
+      "name": "The Prisoner 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4|"
+    },
+    {
+      "name": "The Prisoner 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner",
+        "Elite Enemy"
+      ],
+      "requires": "|The Prisoner|"
+    },
+    {
+      "name": "The Prisoner 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner",
+        "Elite Enemy"
+      ],
+      "requires": "|The Prisoner|"
+    },
+    {
+      "name": "The Prisoner 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner",
+        "Elite Enemy"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):1|"
+    },
+    {
+      "name": "The Prisoner 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner",
+        "Elite Enemy"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):1|"
+    },
+    {
+      "name": "The Prisoner 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner",
+        "Elite Enemy"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):2|"
+    },
+    {
+      "name": "The Prisoner 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner",
+        "Elite Enemy"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):2|"
+    },
+    {
+      "name": "The Prisoner 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner",
+        "Elite Enemy"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):3|"
+    },
+    {
+      "name": "The Prisoner 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner",
+        "Elite Enemy"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):3|"
+    },
+    {
+      "name": "The Prisoner 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner",
+        "Elite Enemy"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4|"
+    },
+    {
+      "name": "The Prisoner 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner",
+        "Elite Enemy"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4|"
+    },
+    {
+      "name": "The Prisoner Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner",
+        "Elite Enemy"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4|"
+    },
+    {
+      "name": "The Prisoner Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4|"
+    },
+    {
+      "name": "The Prisoner Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "The Prisoner Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "The Prisoner Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "The Prisoner Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (The Prisoner)"
+      ]
+    },
+    {
+      "name": "The Prisoner Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "The Prisoner Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Advanced 80 Entropy Clear (The Prisoner)|"
+    },
+    {
+      "name": "The Prisoner Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Advanced 80 Entropy Clear (The Prisoner)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "The Prisoner Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Advanced 80 Entropy Clear (The Prisoner)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "The Prisoner Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Advanced 80 Entropy Clear (The Prisoner)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "The Prisoner Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Advanced 80 Entropy Clear (The Prisoner)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (The Prisoner)"
+      ]
+    },
+    {
+      "name": "The Prisoner Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "The Prisoner"
+      ],
+      "requires": "|The Prisoner| AND |Advanced 80 Entropy Clear (The Prisoner)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "The Prisoner Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "The Prisoner",
+        "Elite Enemy"
+      ],
+      "requires": "|The Prisoner| AND |Advanced 80 Entropy Clear (The Prisoner)|"
+    },
+    {
+      "name": "Naoto 1st Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto|"
+    },
+    {
+      "name": "Naoto 2nd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):1|"
+    },
+    {
+      "name": "Naoto 3rd Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):2|"
+    },
+    {
+      "name": "Naoto 4th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):3|"
+    },
+    {
+      "name": "Naoto 5th Stage Clear (Advanced)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
+    },
+    {
+      "name": "Naoto 1st Stage Elite Enemy: Watcher",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto",
+        "Elite Enemy"
+      ],
+      "requires": "|Naoto|"
+    },
+    {
+      "name": "Naoto 1st Stage Elite Enemy: Sweeper",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto",
+        "Elite Enemy"
+      ],
+      "requires": "|Naoto|"
+    },
+    {
+      "name": "Naoto 2nd Stage Elite Enemy: Serpent of Destruction",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto",
+        "Elite Enemy"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):1|"
+    },
+    {
+      "name": "Naoto 2nd Stage Elite Enemy: Tree of Origin",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto",
+        "Elite Enemy"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):1|"
+    },
+    {
+      "name": "Naoto 3rd Stage Elite Enemy: Arakune",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto",
+        "Elite Enemy"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):2|"
+    },
+    {
+      "name": "Naoto 3rd Stage Elite Enemy: Defiling Eye",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto",
+        "Elite Enemy"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):2|"
+    },
+    {
+      "name": "Naoto 4th Stage Elite Enemy: Oread",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto",
+        "Elite Enemy"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):3|"
+    },
+    {
+      "name": "Naoto 4th Stage Elite Enemy: NAN-FIRE BITE",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto",
+        "Elite Enemy"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):3|"
+    },
+    {
+      "name": "Naoto 5th Stage Elite Enemy: Floating Mind",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto",
+        "Elite Enemy"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
+    },
+    {
+      "name": "Naoto 5th Stage Elite Enemy: NAN-01",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto",
+        "Elite Enemy"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
+    },
+    {
+      "name": "Naoto Advanced Dive Final Elite Enemy: Susanoo",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto",
+        "Elite Enemy"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
+    },
+    {
+      "name": "Naoto Dive Complete (Advanced 0 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
+    },
+    {
+      "name": "Naoto Dive Complete (Advanced 20 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:1|"
+    },
+    {
+      "name": "Naoto Dive Complete (Advanced 40 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:2|"
+    },
+    {
+      "name": "Naoto Dive Complete (Advanced 60 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:3|"
+    },
+    {
+      "name": "Naoto Dive Complete (Advanced 80 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:4|",
+      "place_item": [
+        "Advanced 80 Entropy Clear (Naoto)"
+      ]
+    },
+    {
+      "name": "Naoto Dive Complete (Advanced 100 Entropy)",
+      "region": "Advanced Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:5|"
+    },
+    {
+      "name": "Naoto Dive Complete (Extreme 0 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)|"
+    },
+    {
+      "name": "Naoto Dive Complete (Extreme 20 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)| AND |Progressive Extreme Entropy Limit:1|"
+    },
+    {
+      "name": "Naoto Dive Complete (Extreme 40 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)| AND |Progressive Extreme Entropy Limit:2|"
+    },
+    {
+      "name": "Naoto Dive Complete (Extreme 60 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)| AND |Progressive Extreme Entropy Limit:3|"
+    },
+    {
+      "name": "Naoto Dive Complete (Extreme 80 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)| AND |Progressive Extreme Entropy Limit:4|",
+      "place_item": [
+        "Extreme 80 Entropy Clear (Naoto)"
+      ]
+    },
+    {
+      "name": "Naoto Dive Complete (Extreme 100 Entropy)",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Naoto"
+      ],
+      "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)| AND |Progressive Extreme Entropy Limit:5|"
+    },
+    {
+      "name": "Naoto Extreme Dive Final Elite Enemy: Reki",
+      "region": "Extreme Difficulty",
+      "category": [
+        "Naoto",
+        "Elite Enemy"
+      ],
+      "requires": "|Naoto| AND |Advanced 80 Entropy Clear (Naoto)|"
+    },
+    {
+      "name": "Required Dives Complete (Goal Completed)",
+      "victory": true,
+      "region": "Extreme Difficulty",
+      "category": [
+        "! Goal"
+      ],
+      "requires": "|@Extreme Clear:5|"
+    }
+  ]
+}

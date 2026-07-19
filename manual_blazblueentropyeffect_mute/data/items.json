@@ -1,0 +1,1251 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": "1",
+      "name": "Hibiki",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ragna",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Noel",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lambda -No.11-",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Es",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rachel",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Taokaka",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jin",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Kokonoe",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hakumen",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mai",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hazama",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "ICEY",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bullet",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Prisoner",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Naoto",
+      "category": [
+        "Prototypes"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Entropy Limit",
+      "category": [
+        "Entropy Limit - Advanced"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Extreme Entropy Limit",
+      "category": [
+        "Entropy Limit - Extreme"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Evotype Slot",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Hibiki)",
+      "category": [
+        "Stage",
+        "Hibiki"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Hibiki)",
+      "category": [
+        "Advanced Clear",
+        "Hibiki"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Hibiki)",
+      "category": [
+        "Extreme Clear",
+        "Hibiki"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Ragna)",
+      "category": [
+        "Stage",
+        "Ragna"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Ragna)",
+      "category": [
+        "Advanced Clear",
+        "Ragna"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Ragna)",
+      "category": [
+        "Extreme Clear",
+        "Ragna"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Noel)",
+      "category": [
+        "Stage",
+        "Noel"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Noel)",
+      "category": [
+        "Advanced Clear",
+        "Noel"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Noel)",
+      "category": [
+        "Extreme Clear",
+        "Noel"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Lambda -No.11-)",
+      "category": [
+        "Stage",
+        "Lambda -No.11-"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Lambda -No.11-)",
+      "category": [
+        "Advanced Clear",
+        "Lambda -No.11-"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Lambda -No.11-)",
+      "category": [
+        "Extreme Clear",
+        "Lambda -No.11-"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Es)",
+      "category": [
+        "Stage",
+        "Es"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Es)",
+      "category": [
+        "Advanced Clear",
+        "Es"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Es)",
+      "category": [
+        "Extreme Clear",
+        "Es"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Rachel)",
+      "category": [
+        "Stage",
+        "Rachel"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Rachel)",
+      "category": [
+        "Advanced Clear",
+        "Rachel"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Rachel)",
+      "category": [
+        "Extreme Clear",
+        "Rachel"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Taokaka)",
+      "category": [
+        "Stage",
+        "Taokaka"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Taokaka)",
+      "category": [
+        "Advanced Clear",
+        "Taokaka"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Taokaka)",
+      "category": [
+        "Extreme Clear",
+        "Taokaka"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Jin)",
+      "category": [
+        "Stage",
+        "Jin"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Jin)",
+      "category": [
+        "Advanced Clear",
+        "Jin"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Jin)",
+      "category": [
+        "Extreme Clear",
+        "Jin"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Kokonoe)",
+      "category": [
+        "Stage",
+        "Kokonoe"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Kokonoe)",
+      "category": [
+        "Advanced Clear",
+        "Kokonoe"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Kokonoe)",
+      "category": [
+        "Extreme Clear",
+        "Kokonoe"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Hakumen)",
+      "category": [
+        "Stage",
+        "Hakumen"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Hakumen)",
+      "category": [
+        "Advanced Clear",
+        "Hakumen"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Hakumen)",
+      "category": [
+        "Extreme Clear",
+        "Hakumen"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Mai)",
+      "category": [
+        "Stage",
+        "Mai"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Mai)",
+      "category": [
+        "Advanced Clear",
+        "Mai"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Mai)",
+      "category": [
+        "Extreme Clear",
+        "Mai"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Hazama)",
+      "category": [
+        "Stage",
+        "Hazama"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Hazama)",
+      "category": [
+        "Advanced Clear",
+        "Hazama"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Hazama)",
+      "category": [
+        "Extreme Clear",
+        "Hazama"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (ICEY)",
+      "category": [
+        "Stage",
+        "ICEY"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (ICEY)",
+      "category": [
+        "Advanced Clear",
+        "ICEY"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (ICEY)",
+      "category": [
+        "Extreme Clear",
+        "ICEY"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Bullet)",
+      "category": [
+        "Stage",
+        "Bullet"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Bullet)",
+      "category": [
+        "Advanced Clear",
+        "Bullet"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Bullet)",
+      "category": [
+        "Extreme Clear",
+        "Bullet"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (The Prisoner)",
+      "category": [
+        "Stage",
+        "The Prisoner"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (The Prisoner)",
+      "category": [
+        "Advanced Clear",
+        "The Prisoner"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (The Prisoner)",
+      "category": [
+        "Extreme Clear",
+        "The Prisoner"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": "4",
+      "name": "Progressive Advanced Stage (Naoto)",
+      "category": [
+        "Stage",
+        "Naoto"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Advanced 80 Entropy Clear (Naoto)",
+      "category": [
+        "Advanced Clear",
+        "Naoto"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme 80 Entropy Clear (Naoto)",
+      "category": [
+        "Extreme Clear",
+        "Naoto"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Burn",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Fire Projectile",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Ring of Fire",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Mine",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Fire Spirit",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Cold",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Icicle",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Ice Spike",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Hail",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Ice Blade",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Lightning",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Lightning Chain",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Thunderbolt",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Lightning Orb",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Electric Pillar",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Poison",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Slime",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Virulent Bomb",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Venom",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Bubble Pufferfish",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Tentacle",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Shadow",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Shadow Spike",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Blackhole",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Shadow Mark",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Light Spear",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Flash",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Lightwave",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Radiance",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Holy Mark",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Dagger",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Rend",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Blade Ring",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Bladestorm",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tactic - Flying Blade",
+      "category": [
+        "Tactic"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme Mutation: Tactic Expansion",
+      "category": [
+        "Extreme Mutation"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme Mutation: Extreme Overload",
+      "category": [
+        "Extreme Mutation"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme Mutation: Elite Challenge",
+      "category": [
+        "Extreme Mutation"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme Mutation: Legacy Enhancement",
+      "category": [
+        "Extreme Mutation"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme Mutation: Combat Upgrade",
+      "category": [
+        "Extreme Mutation"
+      ],
+      "useful": true
+    },
+    {
+      "count": "10",
+      "name": "Mind Crystal Slot",
+      "category": [
+        "Mind Crystal Slot"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Bloodthirst",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Violent Impact",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Giant Slayer",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Trap Resistance",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Indestructible",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Strong Momentum",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Blind Rage",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Infiltration",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Exhilaration",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Not Dead Yet",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Concussive Strikes",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Defensive Combo",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Perserverance",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - The More The Merrier",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Emotional Value",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Respite",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Discount",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Domination",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Straightforward",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Take Initiative",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Compliment of Death",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Plenty of Chances",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Blooming Vigor",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Expanded Foundation",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Chance Boost: Light",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Chance Boost: Ice",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Chance Boost: Fire",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Chance Boost: Lightning",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Chance Boost: Dark",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Chance Boost: Poison",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Chance Boost: Blade",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Curse to Boon",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Mixture Replenishment",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Mixture Enhancement",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Vengeful Wrath",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Starting Well-off",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Solo Performance",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Perennial",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Terminal Predator",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Recycling Expert",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Legacy Protocol",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mind Crystal - Flow State",
+      "category": [
+        "Mind Crystal"
+      ],
+      "useful": true
+    }
+  ]
+}
