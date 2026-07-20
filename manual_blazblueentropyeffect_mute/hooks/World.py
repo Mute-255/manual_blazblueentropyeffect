@@ -91,6 +91,12 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
                     item_config[item_name] = item_val + 1
             elif reduced_unlocks and item_name in item_name_groups["Stage"]:
                 item_config[item_name] = item_val // 2
+            elif item_name == "Evotype Slot":
+                extra_evotype_slots = get_option_value(multiworld, player, "extra_evotype_slots")
+                item_config[item_name] = item_val + extra_evotype_slots
+            elif item_name == "Mind Crystal Slot":
+                extra_mind_crystal_slots = get_option_value(multiworld, player, "extra_mind_crystal_slots")
+                item_config[item_name] = item_val + extra_mind_crystal_slots
     if proto_count < 6:
         raise OptionError(f"Not enough Prototypes in the item pool, {proto_count} / 6 required.")
     if world.goal_win_count > proto_count:

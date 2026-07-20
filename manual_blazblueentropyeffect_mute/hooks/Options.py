@@ -57,6 +57,22 @@ class ReducedStageUnlocks(Toggle):
     Only recommended if the default playthrough feels too long."""
     display_name = "Reduced Stage Unlocks"
 
+class ExtraEvotypeSlots(Range):
+    """Adds extra Evotype slots to the item pool to increase the chances of getting them.
+    Having more than the default 2 does nothing."""
+    display_name = "Extra Evotype Slots"
+    range_start = 0
+    range_end = 2
+    default = 0
+
+class ExtraMindCrystalSlots(Range):
+    """Adds extra Mind Crystal slots to the item pool to increase the chances of getting them.
+    Having more than the default 6 does nothing."""
+    display_name = "Extra Mind Crystal Slots"
+    range_start = 0
+    range_end = 6
+    default = 0
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
     options["include_dlc_prototypes"] = IncludeDLCPrototypes
@@ -64,6 +80,8 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
     options["duplicate_prototypes"] = DuplicatePrototypes
     options["prototype_win_count"] = PrototypeWinCount
     options["reduced_stage_unlocks"] = ReducedStageUnlocks
+    options["extra_evotype_slots"] = ExtraEvotypeSlots
+    options["extra_mind_crystal_slots"] = ExtraMindCrystalSlots
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

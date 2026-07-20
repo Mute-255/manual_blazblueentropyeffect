@@ -152,7 +152,9 @@
     {
       "count": "2",
       "name": "Evotype Slot",
-      "category": [],
+      "category": [
+        "Evotype Slot"
+      ],
       "useful": true
     },
     {
@@ -920,7 +922,7 @@
       "useful": true
     },
     {
-      "count": "10",
+      "count": "6",
       "name": "Mind Crystal Slot",
       "category": [
         "Mind Crystal Slot"

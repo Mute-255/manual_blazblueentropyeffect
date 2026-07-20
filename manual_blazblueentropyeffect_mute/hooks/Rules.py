@@ -5,7 +5,7 @@ from BaseClasses import MultiWorld, CollectionState
 
 import re
 
-def CheckGoal(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+def checkGoal(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     return state.count_group_unique("Extreme Clear", player) >= world.goal_win_count
 
 # Sometimes you have a requirement that is just too messy or repetitive to write out with boolean logic.

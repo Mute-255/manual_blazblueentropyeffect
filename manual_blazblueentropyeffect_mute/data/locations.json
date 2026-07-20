@@ -4124,7 +4124,7 @@
       "category": [
         "- Goal -"
       ],
-      "requires": "{CheckGoal()}"
+      "requires": "{checkGoal()}"
     }
   ]
 }

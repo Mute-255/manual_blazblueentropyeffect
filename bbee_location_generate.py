@@ -79,7 +79,7 @@ final_json["data"].append({
     "victory": True,
     "region": "Extreme Difficulty",
     "category": ["- Goal -"],
-    "requires": "{CheckGoal()}"
+    "requires": "{checkGoal()}"
 })
 
 with open('locations.json', 'w') as f:
