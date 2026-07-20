@@ -42,6 +42,14 @@ class DuplicatePrototypes(OptionSet):
     valid_keys = item_name_groups["Prototypes"]
     default = []
 
+class PrototypeWinCount(Range):
+    """The number of unique Prototypes that need to complete Extreme 80 Entropy to complete the goal. 
+    Will automatically be lowered to the number of unique Prototypes in the pool if higher."""
+    display_name = "Prototype Win Count"
+    range_start = 3
+    range_end = 16
+    default = 5
+
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
@@ -57,6 +65,7 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
     options["include_dlc_prototypes"] = IncludeDLCPrototypes
     options["excluded_prototypes"] = ExcludedPrototypes
     options["duplicate_prototypes"] = DuplicatePrototypes
+    options["prototype_win_count"] = PrototypeWinCount
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

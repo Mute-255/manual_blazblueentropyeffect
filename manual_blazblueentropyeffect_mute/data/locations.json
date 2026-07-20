@@ -15,7 +15,7 @@
       "category": [
         "Hibiki"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):1|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):25%|"
     },
     {
       "name": "Hibiki 3rd Stage Clear (Advanced)",
@@ -23,7 +23,7 @@
       "category": [
         "Hibiki"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):2|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):50%|"
     },
     {
       "name": "Hibiki 4th Stage Clear (Advanced)",
@@ -31,7 +31,7 @@
       "category": [
         "Hibiki"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):3|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):75%|"
     },
     {
       "name": "Hibiki 5th Stage Clear (Advanced)",
@@ -39,7 +39,7 @@
       "category": [
         "Hibiki"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):100%|"
     },
     {
       "name": "Hibiki 1st Stage Elite Enemy: Watcher",
@@ -66,7 +66,7 @@
         "Hibiki",
         "Elite Enemy"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):1|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):25%|"
     },
     {
       "name": "Hibiki 2nd Stage Elite Enemy: Tree of Origin",
@@ -75,7 +75,7 @@
         "Hibiki",
         "Elite Enemy"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):1|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):25%|"
     },
     {
       "name": "Hibiki 3rd Stage Elite Enemy: Arakune",
@@ -84,7 +84,7 @@
         "Hibiki",
         "Elite Enemy"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):2|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):50%|"
     },
     {
       "name": "Hibiki 3rd Stage Elite Enemy: Defiling Eye",
@@ -93,7 +93,7 @@
         "Hibiki",
         "Elite Enemy"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):2|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):50%|"
     },
     {
       "name": "Hibiki 4th Stage Elite Enemy: Oread",
@@ -102,7 +102,7 @@
         "Hibiki",
         "Elite Enemy"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):3|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):75%|"
     },
     {
       "name": "Hibiki 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -111,7 +111,7 @@
         "Hibiki",
         "Elite Enemy"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):3|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):75%|"
     },
     {
       "name": "Hibiki 5th Stage Elite Enemy: Floating Mind",
@@ -120,7 +120,7 @@
         "Hibiki",
         "Elite Enemy"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):100%|"
     },
     {
       "name": "Hibiki 5th Stage Elite Enemy: NAN-01",
@@ -129,7 +129,7 @@
         "Hibiki",
         "Elite Enemy"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):100%|"
     },
     {
       "name": "Hibiki Advanced Dive Final Elite Enemy: Susanoo",
@@ -138,7 +138,7 @@
         "Hibiki",
         "Elite Enemy"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):100%|"
     },
     {
       "name": "Hibiki Dive Complete (Advanced 0 Entropy)",
@@ -146,7 +146,7 @@
       "category": [
         "Hibiki"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):100%|"
     },
     {
       "name": "Hibiki Dive Complete (Advanced 20 Entropy)",
@@ -154,7 +154,7 @@
       "category": [
         "Hibiki"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "Hibiki Dive Complete (Advanced 40 Entropy)",
@@ -162,7 +162,7 @@
       "category": [
         "Hibiki"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "Hibiki Dive Complete (Advanced 60 Entropy)",
@@ -170,7 +170,7 @@
       "category": [
         "Hibiki"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "Hibiki Dive Complete (Advanced 80 Entropy)",
@@ -178,7 +178,7 @@
       "category": [
         "Hibiki"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (Hibiki)"
       ]
@@ -189,7 +189,7 @@
       "category": [
         "Hibiki"
       ],
-      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|Hibiki| AND |Progressive Advanced Stage (Hibiki):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "Hibiki Dive Complete (Extreme 0 Entropy)",
@@ -265,7 +265,7 @@
       "category": [
         "Ragna"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):1|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):25%|"
     },
     {
       "name": "Ragna 3rd Stage Clear (Advanced)",
@@ -273,7 +273,7 @@
       "category": [
         "Ragna"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):2|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):50%|"
     },
     {
       "name": "Ragna 4th Stage Clear (Advanced)",
@@ -281,7 +281,7 @@
       "category": [
         "Ragna"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):3|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):75%|"
     },
     {
       "name": "Ragna 5th Stage Clear (Advanced)",
@@ -289,7 +289,7 @@
       "category": [
         "Ragna"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):100%|"
     },
     {
       "name": "Ragna 1st Stage Elite Enemy: Watcher",
@@ -316,7 +316,7 @@
         "Ragna",
         "Elite Enemy"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):1|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):25%|"
     },
     {
       "name": "Ragna 2nd Stage Elite Enemy: Tree of Origin",
@@ -325,7 +325,7 @@
         "Ragna",
         "Elite Enemy"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):1|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):25%|"
     },
     {
       "name": "Ragna 3rd Stage Elite Enemy: Arakune",
@@ -334,7 +334,7 @@
         "Ragna",
         "Elite Enemy"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):2|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):50%|"
     },
     {
       "name": "Ragna 3rd Stage Elite Enemy: Defiling Eye",
@@ -343,7 +343,7 @@
         "Ragna",
         "Elite Enemy"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):2|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):50%|"
     },
     {
       "name": "Ragna 4th Stage Elite Enemy: Oread",
@@ -352,7 +352,7 @@
         "Ragna",
         "Elite Enemy"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):3|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):75%|"
     },
     {
       "name": "Ragna 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -361,7 +361,7 @@
         "Ragna",
         "Elite Enemy"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):3|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):75%|"
     },
     {
       "name": "Ragna 5th Stage Elite Enemy: Floating Mind",
@@ -370,7 +370,7 @@
         "Ragna",
         "Elite Enemy"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):100%|"
     },
     {
       "name": "Ragna 5th Stage Elite Enemy: NAN-01",
@@ -379,7 +379,7 @@
         "Ragna",
         "Elite Enemy"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):100%|"
     },
     {
       "name": "Ragna Advanced Dive Final Elite Enemy: Susanoo",
@@ -388,7 +388,7 @@
         "Ragna",
         "Elite Enemy"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):100%|"
     },
     {
       "name": "Ragna Dive Complete (Advanced 0 Entropy)",
@@ -396,7 +396,7 @@
       "category": [
         "Ragna"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):100%|"
     },
     {
       "name": "Ragna Dive Complete (Advanced 20 Entropy)",
@@ -404,7 +404,7 @@
       "category": [
         "Ragna"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "Ragna Dive Complete (Advanced 40 Entropy)",
@@ -412,7 +412,7 @@
       "category": [
         "Ragna"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "Ragna Dive Complete (Advanced 60 Entropy)",
@@ -420,7 +420,7 @@
       "category": [
         "Ragna"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "Ragna Dive Complete (Advanced 80 Entropy)",
@@ -428,7 +428,7 @@
       "category": [
         "Ragna"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (Ragna)"
       ]
@@ -439,7 +439,7 @@
       "category": [
         "Ragna"
       ],
-      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|Ragna| AND |Progressive Advanced Stage (Ragna):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "Ragna Dive Complete (Extreme 0 Entropy)",
@@ -515,7 +515,7 @@
       "category": [
         "Noel"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):1|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):25%|"
     },
     {
       "name": "Noel 3rd Stage Clear (Advanced)",
@@ -523,7 +523,7 @@
       "category": [
         "Noel"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):2|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):50%|"
     },
     {
       "name": "Noel 4th Stage Clear (Advanced)",
@@ -531,7 +531,7 @@
       "category": [
         "Noel"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):3|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):75%|"
     },
     {
       "name": "Noel 5th Stage Clear (Advanced)",
@@ -539,7 +539,7 @@
       "category": [
         "Noel"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):100%|"
     },
     {
       "name": "Noel 1st Stage Elite Enemy: Watcher",
@@ -566,7 +566,7 @@
         "Noel",
         "Elite Enemy"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):1|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):25%|"
     },
     {
       "name": "Noel 2nd Stage Elite Enemy: Tree of Origin",
@@ -575,7 +575,7 @@
         "Noel",
         "Elite Enemy"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):1|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):25%|"
     },
     {
       "name": "Noel 3rd Stage Elite Enemy: Arakune",
@@ -584,7 +584,7 @@
         "Noel",
         "Elite Enemy"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):2|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):50%|"
     },
     {
       "name": "Noel 3rd Stage Elite Enemy: Defiling Eye",
@@ -593,7 +593,7 @@
         "Noel",
         "Elite Enemy"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):2|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):50%|"
     },
     {
       "name": "Noel 4th Stage Elite Enemy: Oread",
@@ -602,7 +602,7 @@
         "Noel",
         "Elite Enemy"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):3|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):75%|"
     },
     {
       "name": "Noel 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -611,7 +611,7 @@
         "Noel",
         "Elite Enemy"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):3|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):75%|"
     },
     {
       "name": "Noel 5th Stage Elite Enemy: Floating Mind",
@@ -620,7 +620,7 @@
         "Noel",
         "Elite Enemy"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):100%|"
     },
     {
       "name": "Noel 5th Stage Elite Enemy: NAN-01",
@@ -629,7 +629,7 @@
         "Noel",
         "Elite Enemy"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):100%|"
     },
     {
       "name": "Noel Advanced Dive Final Elite Enemy: Susanoo",
@@ -638,7 +638,7 @@
         "Noel",
         "Elite Enemy"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):100%|"
     },
     {
       "name": "Noel Dive Complete (Advanced 0 Entropy)",
@@ -646,7 +646,7 @@
       "category": [
         "Noel"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):100%|"
     },
     {
       "name": "Noel Dive Complete (Advanced 20 Entropy)",
@@ -654,7 +654,7 @@
       "category": [
         "Noel"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "Noel Dive Complete (Advanced 40 Entropy)",
@@ -662,7 +662,7 @@
       "category": [
         "Noel"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "Noel Dive Complete (Advanced 60 Entropy)",
@@ -670,7 +670,7 @@
       "category": [
         "Noel"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "Noel Dive Complete (Advanced 80 Entropy)",
@@ -678,7 +678,7 @@
       "category": [
         "Noel"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (Noel)"
       ]
@@ -689,7 +689,7 @@
       "category": [
         "Noel"
       ],
-      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|Noel| AND |Progressive Advanced Stage (Noel):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "Noel Dive Complete (Extreme 0 Entropy)",
@@ -765,7 +765,7 @@
       "category": [
         "\u039b -No.11-"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):1|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):25%|"
     },
     {
       "name": "\u039b -No.11- 3rd Stage Clear (Advanced)",
@@ -773,7 +773,7 @@
       "category": [
         "\u039b -No.11-"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):2|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):50%|"
     },
     {
       "name": "\u039b -No.11- 4th Stage Clear (Advanced)",
@@ -781,7 +781,7 @@
       "category": [
         "\u039b -No.11-"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):3|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):75%|"
     },
     {
       "name": "\u039b -No.11- 5th Stage Clear (Advanced)",
@@ -789,7 +789,7 @@
       "category": [
         "\u039b -No.11-"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):100%|"
     },
     {
       "name": "\u039b -No.11- 1st Stage Elite Enemy: Watcher",
@@ -816,7 +816,7 @@
         "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):1|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):25%|"
     },
     {
       "name": "\u039b -No.11- 2nd Stage Elite Enemy: Tree of Origin",
@@ -825,7 +825,7 @@
         "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):1|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):25%|"
     },
     {
       "name": "\u039b -No.11- 3rd Stage Elite Enemy: Arakune",
@@ -834,7 +834,7 @@
         "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):2|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):50%|"
     },
     {
       "name": "\u039b -No.11- 3rd Stage Elite Enemy: Defiling Eye",
@@ -843,7 +843,7 @@
         "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):2|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):50%|"
     },
     {
       "name": "\u039b -No.11- 4th Stage Elite Enemy: Oread",
@@ -852,7 +852,7 @@
         "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):3|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):75%|"
     },
     {
       "name": "\u039b -No.11- 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -861,7 +861,7 @@
         "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):3|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):75%|"
     },
     {
       "name": "\u039b -No.11- 5th Stage Elite Enemy: Floating Mind",
@@ -870,7 +870,7 @@
         "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):100%|"
     },
     {
       "name": "\u039b -No.11- 5th Stage Elite Enemy: NAN-01",
@@ -879,7 +879,7 @@
         "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):100%|"
     },
     {
       "name": "\u039b -No.11- Advanced Dive Final Elite Enemy: Susanoo",
@@ -888,7 +888,7 @@
         "\u039b -No.11-",
         "Elite Enemy"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):100%|"
     },
     {
       "name": "\u039b -No.11- Dive Complete (Advanced 0 Entropy)",
@@ -896,7 +896,7 @@
       "category": [
         "\u039b -No.11-"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):100%|"
     },
     {
       "name": "\u039b -No.11- Dive Complete (Advanced 20 Entropy)",
@@ -904,7 +904,7 @@
       "category": [
         "\u039b -No.11-"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "\u039b -No.11- Dive Complete (Advanced 40 Entropy)",
@@ -912,7 +912,7 @@
       "category": [
         "\u039b -No.11-"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "\u039b -No.11- Dive Complete (Advanced 60 Entropy)",
@@ -920,7 +920,7 @@
       "category": [
         "\u039b -No.11-"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "\u039b -No.11- Dive Complete (Advanced 80 Entropy)",
@@ -928,7 +928,7 @@
       "category": [
         "\u039b -No.11-"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (\u039b -No.11-)"
       ]
@@ -939,7 +939,7 @@
       "category": [
         "\u039b -No.11-"
       ],
-      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|\u039b -No.11-| AND |Progressive Advanced Stage (\u039b -No.11-):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "\u039b -No.11- Dive Complete (Extreme 0 Entropy)",
@@ -1015,7 +1015,7 @@
       "category": [
         "Es"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):1|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):25%|"
     },
     {
       "name": "Es 3rd Stage Clear (Advanced)",
@@ -1023,7 +1023,7 @@
       "category": [
         "Es"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):2|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):50%|"
     },
     {
       "name": "Es 4th Stage Clear (Advanced)",
@@ -1031,7 +1031,7 @@
       "category": [
         "Es"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):3|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):75%|"
     },
     {
       "name": "Es 5th Stage Clear (Advanced)",
@@ -1039,7 +1039,7 @@
       "category": [
         "Es"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):4|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):100%|"
     },
     {
       "name": "Es 1st Stage Elite Enemy: Watcher",
@@ -1066,7 +1066,7 @@
         "Es",
         "Elite Enemy"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):1|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):25%|"
     },
     {
       "name": "Es 2nd Stage Elite Enemy: Tree of Origin",
@@ -1075,7 +1075,7 @@
         "Es",
         "Elite Enemy"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):1|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):25%|"
     },
     {
       "name": "Es 3rd Stage Elite Enemy: Arakune",
@@ -1084,7 +1084,7 @@
         "Es",
         "Elite Enemy"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):2|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):50%|"
     },
     {
       "name": "Es 3rd Stage Elite Enemy: Defiling Eye",
@@ -1093,7 +1093,7 @@
         "Es",
         "Elite Enemy"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):2|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):50%|"
     },
     {
       "name": "Es 4th Stage Elite Enemy: Oread",
@@ -1102,7 +1102,7 @@
         "Es",
         "Elite Enemy"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):3|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):75%|"
     },
     {
       "name": "Es 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -1111,7 +1111,7 @@
         "Es",
         "Elite Enemy"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):3|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):75%|"
     },
     {
       "name": "Es 5th Stage Elite Enemy: Floating Mind",
@@ -1120,7 +1120,7 @@
         "Es",
         "Elite Enemy"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):4|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):100%|"
     },
     {
       "name": "Es 5th Stage Elite Enemy: NAN-01",
@@ -1129,7 +1129,7 @@
         "Es",
         "Elite Enemy"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):4|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):100%|"
     },
     {
       "name": "Es Advanced Dive Final Elite Enemy: Susanoo",
@@ -1138,7 +1138,7 @@
         "Es",
         "Elite Enemy"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):4|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):100%|"
     },
     {
       "name": "Es Dive Complete (Advanced 0 Entropy)",
@@ -1146,7 +1146,7 @@
       "category": [
         "Es"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):4|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):100%|"
     },
     {
       "name": "Es Dive Complete (Advanced 20 Entropy)",
@@ -1154,7 +1154,7 @@
       "category": [
         "Es"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "Es Dive Complete (Advanced 40 Entropy)",
@@ -1162,7 +1162,7 @@
       "category": [
         "Es"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "Es Dive Complete (Advanced 60 Entropy)",
@@ -1170,7 +1170,7 @@
       "category": [
         "Es"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "Es Dive Complete (Advanced 80 Entropy)",
@@ -1178,7 +1178,7 @@
       "category": [
         "Es"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (Es)"
       ]
@@ -1189,7 +1189,7 @@
       "category": [
         "Es"
       ],
-      "requires": "|Es| AND |Progressive Advanced Stage (Es):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|Es| AND |Progressive Advanced Stage (Es):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "Es Dive Complete (Extreme 0 Entropy)",
@@ -1267,7 +1267,7 @@
         "Rachel",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):1|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):25%|"
     },
     {
       "name": "Rachel 3rd Stage Clear (Advanced)",
@@ -1276,7 +1276,7 @@
         "Rachel",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):2|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):50%|"
     },
     {
       "name": "Rachel 4th Stage Clear (Advanced)",
@@ -1285,7 +1285,7 @@
         "Rachel",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):3|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):75%|"
     },
     {
       "name": "Rachel 5th Stage Clear (Advanced)",
@@ -1294,7 +1294,7 @@
         "Rachel",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):100%|"
     },
     {
       "name": "Rachel 1st Stage Elite Enemy: Watcher",
@@ -1324,7 +1324,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):1|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):25%|"
     },
     {
       "name": "Rachel 2nd Stage Elite Enemy: Tree of Origin",
@@ -1334,7 +1334,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):1|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):25%|"
     },
     {
       "name": "Rachel 3rd Stage Elite Enemy: Arakune",
@@ -1344,7 +1344,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):2|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):50%|"
     },
     {
       "name": "Rachel 3rd Stage Elite Enemy: Defiling Eye",
@@ -1354,7 +1354,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):2|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):50%|"
     },
     {
       "name": "Rachel 4th Stage Elite Enemy: Oread",
@@ -1364,7 +1364,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):3|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):75%|"
     },
     {
       "name": "Rachel 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -1374,7 +1374,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):3|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):75%|"
     },
     {
       "name": "Rachel 5th Stage Elite Enemy: Floating Mind",
@@ -1384,7 +1384,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):100%|"
     },
     {
       "name": "Rachel 5th Stage Elite Enemy: NAN-01",
@@ -1394,7 +1394,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):100%|"
     },
     {
       "name": "Rachel Advanced Dive Final Elite Enemy: Susanoo",
@@ -1404,7 +1404,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):100%|"
     },
     {
       "name": "Rachel Dive Complete (Advanced 0 Entropy)",
@@ -1413,7 +1413,7 @@
         "Rachel",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):100%|"
     },
     {
       "name": "Rachel Dive Complete (Advanced 20 Entropy)",
@@ -1422,7 +1422,7 @@
         "Rachel",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "Rachel Dive Complete (Advanced 40 Entropy)",
@@ -1431,7 +1431,7 @@
         "Rachel",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "Rachel Dive Complete (Advanced 60 Entropy)",
@@ -1440,7 +1440,7 @@
         "Rachel",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "Rachel Dive Complete (Advanced 80 Entropy)",
@@ -1449,7 +1449,7 @@
         "Rachel",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (Rachel)"
       ]
@@ -1461,7 +1461,7 @@
         "Rachel",
         "DLC"
       ],
-      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|Rachel| AND |Progressive Advanced Stage (Rachel):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "Rachel Dive Complete (Extreme 0 Entropy)",
@@ -1544,7 +1544,7 @@
       "category": [
         "Taokaka"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):1|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):25%|"
     },
     {
       "name": "Taokaka 3rd Stage Clear (Advanced)",
@@ -1552,7 +1552,7 @@
       "category": [
         "Taokaka"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):2|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):50%|"
     },
     {
       "name": "Taokaka 4th Stage Clear (Advanced)",
@@ -1560,7 +1560,7 @@
       "category": [
         "Taokaka"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):3|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):75%|"
     },
     {
       "name": "Taokaka 5th Stage Clear (Advanced)",
@@ -1568,7 +1568,7 @@
       "category": [
         "Taokaka"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):100%|"
     },
     {
       "name": "Taokaka 1st Stage Elite Enemy: Watcher",
@@ -1595,7 +1595,7 @@
         "Taokaka",
         "Elite Enemy"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):1|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):25%|"
     },
     {
       "name": "Taokaka 2nd Stage Elite Enemy: Tree of Origin",
@@ -1604,7 +1604,7 @@
         "Taokaka",
         "Elite Enemy"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):1|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):25%|"
     },
     {
       "name": "Taokaka 3rd Stage Elite Enemy: Arakune",
@@ -1613,7 +1613,7 @@
         "Taokaka",
         "Elite Enemy"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):2|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):50%|"
     },
     {
       "name": "Taokaka 3rd Stage Elite Enemy: Defiling Eye",
@@ -1622,7 +1622,7 @@
         "Taokaka",
         "Elite Enemy"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):2|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):50%|"
     },
     {
       "name": "Taokaka 4th Stage Elite Enemy: Oread",
@@ -1631,7 +1631,7 @@
         "Taokaka",
         "Elite Enemy"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):3|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):75%|"
     },
     {
       "name": "Taokaka 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -1640,7 +1640,7 @@
         "Taokaka",
         "Elite Enemy"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):3|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):75%|"
     },
     {
       "name": "Taokaka 5th Stage Elite Enemy: Floating Mind",
@@ -1649,7 +1649,7 @@
         "Taokaka",
         "Elite Enemy"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):100%|"
     },
     {
       "name": "Taokaka 5th Stage Elite Enemy: NAN-01",
@@ -1658,7 +1658,7 @@
         "Taokaka",
         "Elite Enemy"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):100%|"
     },
     {
       "name": "Taokaka Advanced Dive Final Elite Enemy: Susanoo",
@@ -1667,7 +1667,7 @@
         "Taokaka",
         "Elite Enemy"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):100%|"
     },
     {
       "name": "Taokaka Dive Complete (Advanced 0 Entropy)",
@@ -1675,7 +1675,7 @@
       "category": [
         "Taokaka"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):100%|"
     },
     {
       "name": "Taokaka Dive Complete (Advanced 20 Entropy)",
@@ -1683,7 +1683,7 @@
       "category": [
         "Taokaka"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "Taokaka Dive Complete (Advanced 40 Entropy)",
@@ -1691,7 +1691,7 @@
       "category": [
         "Taokaka"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "Taokaka Dive Complete (Advanced 60 Entropy)",
@@ -1699,7 +1699,7 @@
       "category": [
         "Taokaka"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "Taokaka Dive Complete (Advanced 80 Entropy)",
@@ -1707,7 +1707,7 @@
       "category": [
         "Taokaka"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (Taokaka)"
       ]
@@ -1718,7 +1718,7 @@
       "category": [
         "Taokaka"
       ],
-      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|Taokaka| AND |Progressive Advanced Stage (Taokaka):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "Taokaka Dive Complete (Extreme 0 Entropy)",
@@ -1794,7 +1794,7 @@
       "category": [
         "Jin"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):1|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):25%|"
     },
     {
       "name": "Jin 3rd Stage Clear (Advanced)",
@@ -1802,7 +1802,7 @@
       "category": [
         "Jin"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):2|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):50%|"
     },
     {
       "name": "Jin 4th Stage Clear (Advanced)",
@@ -1810,7 +1810,7 @@
       "category": [
         "Jin"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):3|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):75%|"
     },
     {
       "name": "Jin 5th Stage Clear (Advanced)",
@@ -1818,7 +1818,7 @@
       "category": [
         "Jin"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):100%|"
     },
     {
       "name": "Jin 1st Stage Elite Enemy: Watcher",
@@ -1845,7 +1845,7 @@
         "Jin",
         "Elite Enemy"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):1|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):25%|"
     },
     {
       "name": "Jin 2nd Stage Elite Enemy: Tree of Origin",
@@ -1854,7 +1854,7 @@
         "Jin",
         "Elite Enemy"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):1|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):25%|"
     },
     {
       "name": "Jin 3rd Stage Elite Enemy: Arakune",
@@ -1863,7 +1863,7 @@
         "Jin",
         "Elite Enemy"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):2|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):50%|"
     },
     {
       "name": "Jin 3rd Stage Elite Enemy: Defiling Eye",
@@ -1872,7 +1872,7 @@
         "Jin",
         "Elite Enemy"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):2|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):50%|"
     },
     {
       "name": "Jin 4th Stage Elite Enemy: Oread",
@@ -1881,7 +1881,7 @@
         "Jin",
         "Elite Enemy"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):3|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):75%|"
     },
     {
       "name": "Jin 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -1890,7 +1890,7 @@
         "Jin",
         "Elite Enemy"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):3|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):75%|"
     },
     {
       "name": "Jin 5th Stage Elite Enemy: Floating Mind",
@@ -1899,7 +1899,7 @@
         "Jin",
         "Elite Enemy"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):100%|"
     },
     {
       "name": "Jin 5th Stage Elite Enemy: NAN-01",
@@ -1908,7 +1908,7 @@
         "Jin",
         "Elite Enemy"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):100%|"
     },
     {
       "name": "Jin Advanced Dive Final Elite Enemy: Susanoo",
@@ -1917,7 +1917,7 @@
         "Jin",
         "Elite Enemy"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):100%|"
     },
     {
       "name": "Jin Dive Complete (Advanced 0 Entropy)",
@@ -1925,7 +1925,7 @@
       "category": [
         "Jin"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):100%|"
     },
     {
       "name": "Jin Dive Complete (Advanced 20 Entropy)",
@@ -1933,7 +1933,7 @@
       "category": [
         "Jin"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "Jin Dive Complete (Advanced 40 Entropy)",
@@ -1941,7 +1941,7 @@
       "category": [
         "Jin"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "Jin Dive Complete (Advanced 60 Entropy)",
@@ -1949,7 +1949,7 @@
       "category": [
         "Jin"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "Jin Dive Complete (Advanced 80 Entropy)",
@@ -1957,7 +1957,7 @@
       "category": [
         "Jin"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (Jin)"
       ]
@@ -1968,7 +1968,7 @@
       "category": [
         "Jin"
       ],
-      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|Jin| AND |Progressive Advanced Stage (Jin):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "Jin Dive Complete (Extreme 0 Entropy)",
@@ -2044,7 +2044,7 @@
       "category": [
         "Kokonoe"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):1|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):25%|"
     },
     {
       "name": "Kokonoe 3rd Stage Clear (Advanced)",
@@ -2052,7 +2052,7 @@
       "category": [
         "Kokonoe"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):2|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):50%|"
     },
     {
       "name": "Kokonoe 4th Stage Clear (Advanced)",
@@ -2060,7 +2060,7 @@
       "category": [
         "Kokonoe"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):3|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):75%|"
     },
     {
       "name": "Kokonoe 5th Stage Clear (Advanced)",
@@ -2068,7 +2068,7 @@
       "category": [
         "Kokonoe"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):100%|"
     },
     {
       "name": "Kokonoe 1st Stage Elite Enemy: Watcher",
@@ -2095,7 +2095,7 @@
         "Kokonoe",
         "Elite Enemy"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):1|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):25%|"
     },
     {
       "name": "Kokonoe 2nd Stage Elite Enemy: Tree of Origin",
@@ -2104,7 +2104,7 @@
         "Kokonoe",
         "Elite Enemy"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):1|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):25%|"
     },
     {
       "name": "Kokonoe 3rd Stage Elite Enemy: Arakune",
@@ -2113,7 +2113,7 @@
         "Kokonoe",
         "Elite Enemy"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):2|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):50%|"
     },
     {
       "name": "Kokonoe 3rd Stage Elite Enemy: Defiling Eye",
@@ -2122,7 +2122,7 @@
         "Kokonoe",
         "Elite Enemy"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):2|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):50%|"
     },
     {
       "name": "Kokonoe 4th Stage Elite Enemy: Oread",
@@ -2131,7 +2131,7 @@
         "Kokonoe",
         "Elite Enemy"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):3|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):75%|"
     },
     {
       "name": "Kokonoe 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -2140,7 +2140,7 @@
         "Kokonoe",
         "Elite Enemy"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):3|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):75%|"
     },
     {
       "name": "Kokonoe 5th Stage Elite Enemy: Floating Mind",
@@ -2149,7 +2149,7 @@
         "Kokonoe",
         "Elite Enemy"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):100%|"
     },
     {
       "name": "Kokonoe 5th Stage Elite Enemy: NAN-01",
@@ -2158,7 +2158,7 @@
         "Kokonoe",
         "Elite Enemy"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):100%|"
     },
     {
       "name": "Kokonoe Advanced Dive Final Elite Enemy: Susanoo",
@@ -2167,7 +2167,7 @@
         "Kokonoe",
         "Elite Enemy"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):100%|"
     },
     {
       "name": "Kokonoe Dive Complete (Advanced 0 Entropy)",
@@ -2175,7 +2175,7 @@
       "category": [
         "Kokonoe"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):100%|"
     },
     {
       "name": "Kokonoe Dive Complete (Advanced 20 Entropy)",
@@ -2183,7 +2183,7 @@
       "category": [
         "Kokonoe"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "Kokonoe Dive Complete (Advanced 40 Entropy)",
@@ -2191,7 +2191,7 @@
       "category": [
         "Kokonoe"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "Kokonoe Dive Complete (Advanced 60 Entropy)",
@@ -2199,7 +2199,7 @@
       "category": [
         "Kokonoe"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "Kokonoe Dive Complete (Advanced 80 Entropy)",
@@ -2207,7 +2207,7 @@
       "category": [
         "Kokonoe"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (Kokonoe)"
       ]
@@ -2218,7 +2218,7 @@
       "category": [
         "Kokonoe"
       ],
-      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|Kokonoe| AND |Progressive Advanced Stage (Kokonoe):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "Kokonoe Dive Complete (Extreme 0 Entropy)",
@@ -2294,7 +2294,7 @@
       "category": [
         "Hakumen"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):1|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):25%|"
     },
     {
       "name": "Hakumen 3rd Stage Clear (Advanced)",
@@ -2302,7 +2302,7 @@
       "category": [
         "Hakumen"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):2|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):50%|"
     },
     {
       "name": "Hakumen 4th Stage Clear (Advanced)",
@@ -2310,7 +2310,7 @@
       "category": [
         "Hakumen"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):3|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):75%|"
     },
     {
       "name": "Hakumen 5th Stage Clear (Advanced)",
@@ -2318,7 +2318,7 @@
       "category": [
         "Hakumen"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):100%|"
     },
     {
       "name": "Hakumen 1st Stage Elite Enemy: Watcher",
@@ -2345,7 +2345,7 @@
         "Hakumen",
         "Elite Enemy"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):1|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):25%|"
     },
     {
       "name": "Hakumen 2nd Stage Elite Enemy: Tree of Origin",
@@ -2354,7 +2354,7 @@
         "Hakumen",
         "Elite Enemy"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):1|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):25%|"
     },
     {
       "name": "Hakumen 3rd Stage Elite Enemy: Arakune",
@@ -2363,7 +2363,7 @@
         "Hakumen",
         "Elite Enemy"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):2|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):50%|"
     },
     {
       "name": "Hakumen 3rd Stage Elite Enemy: Defiling Eye",
@@ -2372,7 +2372,7 @@
         "Hakumen",
         "Elite Enemy"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):2|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):50%|"
     },
     {
       "name": "Hakumen 4th Stage Elite Enemy: Oread",
@@ -2381,7 +2381,7 @@
         "Hakumen",
         "Elite Enemy"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):3|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):75%|"
     },
     {
       "name": "Hakumen 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -2390,7 +2390,7 @@
         "Hakumen",
         "Elite Enemy"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):3|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):75%|"
     },
     {
       "name": "Hakumen 5th Stage Elite Enemy: Floating Mind",
@@ -2399,7 +2399,7 @@
         "Hakumen",
         "Elite Enemy"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):100%|"
     },
     {
       "name": "Hakumen 5th Stage Elite Enemy: NAN-01",
@@ -2408,7 +2408,7 @@
         "Hakumen",
         "Elite Enemy"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):100%|"
     },
     {
       "name": "Hakumen Advanced Dive Final Elite Enemy: Susanoo",
@@ -2417,7 +2417,7 @@
         "Hakumen",
         "Elite Enemy"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):100%|"
     },
     {
       "name": "Hakumen Dive Complete (Advanced 0 Entropy)",
@@ -2425,7 +2425,7 @@
       "category": [
         "Hakumen"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):100%|"
     },
     {
       "name": "Hakumen Dive Complete (Advanced 20 Entropy)",
@@ -2433,7 +2433,7 @@
       "category": [
         "Hakumen"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "Hakumen Dive Complete (Advanced 40 Entropy)",
@@ -2441,7 +2441,7 @@
       "category": [
         "Hakumen"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "Hakumen Dive Complete (Advanced 60 Entropy)",
@@ -2449,7 +2449,7 @@
       "category": [
         "Hakumen"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "Hakumen Dive Complete (Advanced 80 Entropy)",
@@ -2457,7 +2457,7 @@
       "category": [
         "Hakumen"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (Hakumen)"
       ]
@@ -2468,7 +2468,7 @@
       "category": [
         "Hakumen"
       ],
-      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|Hakumen| AND |Progressive Advanced Stage (Hakumen):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "Hakumen Dive Complete (Extreme 0 Entropy)",
@@ -2544,7 +2544,7 @@
       "category": [
         "Mai"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):1|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):25%|"
     },
     {
       "name": "Mai 3rd Stage Clear (Advanced)",
@@ -2552,7 +2552,7 @@
       "category": [
         "Mai"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):2|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):50%|"
     },
     {
       "name": "Mai 4th Stage Clear (Advanced)",
@@ -2560,7 +2560,7 @@
       "category": [
         "Mai"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):3|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):75%|"
     },
     {
       "name": "Mai 5th Stage Clear (Advanced)",
@@ -2568,7 +2568,7 @@
       "category": [
         "Mai"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):100%|"
     },
     {
       "name": "Mai 1st Stage Elite Enemy: Watcher",
@@ -2595,7 +2595,7 @@
         "Mai",
         "Elite Enemy"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):1|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):25%|"
     },
     {
       "name": "Mai 2nd Stage Elite Enemy: Tree of Origin",
@@ -2604,7 +2604,7 @@
         "Mai",
         "Elite Enemy"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):1|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):25%|"
     },
     {
       "name": "Mai 3rd Stage Elite Enemy: Arakune",
@@ -2613,7 +2613,7 @@
         "Mai",
         "Elite Enemy"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):2|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):50%|"
     },
     {
       "name": "Mai 3rd Stage Elite Enemy: Defiling Eye",
@@ -2622,7 +2622,7 @@
         "Mai",
         "Elite Enemy"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):2|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):50%|"
     },
     {
       "name": "Mai 4th Stage Elite Enemy: Oread",
@@ -2631,7 +2631,7 @@
         "Mai",
         "Elite Enemy"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):3|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):75%|"
     },
     {
       "name": "Mai 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -2640,7 +2640,7 @@
         "Mai",
         "Elite Enemy"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):3|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):75%|"
     },
     {
       "name": "Mai 5th Stage Elite Enemy: Floating Mind",
@@ -2649,7 +2649,7 @@
         "Mai",
         "Elite Enemy"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):100%|"
     },
     {
       "name": "Mai 5th Stage Elite Enemy: NAN-01",
@@ -2658,7 +2658,7 @@
         "Mai",
         "Elite Enemy"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):100%|"
     },
     {
       "name": "Mai Advanced Dive Final Elite Enemy: Susanoo",
@@ -2667,7 +2667,7 @@
         "Mai",
         "Elite Enemy"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):100%|"
     },
     {
       "name": "Mai Dive Complete (Advanced 0 Entropy)",
@@ -2675,7 +2675,7 @@
       "category": [
         "Mai"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):100%|"
     },
     {
       "name": "Mai Dive Complete (Advanced 20 Entropy)",
@@ -2683,7 +2683,7 @@
       "category": [
         "Mai"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "Mai Dive Complete (Advanced 40 Entropy)",
@@ -2691,7 +2691,7 @@
       "category": [
         "Mai"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "Mai Dive Complete (Advanced 60 Entropy)",
@@ -2699,7 +2699,7 @@
       "category": [
         "Mai"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "Mai Dive Complete (Advanced 80 Entropy)",
@@ -2707,7 +2707,7 @@
       "category": [
         "Mai"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (Mai)"
       ]
@@ -2718,7 +2718,7 @@
       "category": [
         "Mai"
       ],
-      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|Mai| AND |Progressive Advanced Stage (Mai):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "Mai Dive Complete (Extreme 0 Entropy)",
@@ -2796,7 +2796,7 @@
         "Hazama",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):1|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):25%|"
     },
     {
       "name": "Hazama 3rd Stage Clear (Advanced)",
@@ -2805,7 +2805,7 @@
         "Hazama",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):2|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):50%|"
     },
     {
       "name": "Hazama 4th Stage Clear (Advanced)",
@@ -2814,7 +2814,7 @@
         "Hazama",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):3|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):75%|"
     },
     {
       "name": "Hazama 5th Stage Clear (Advanced)",
@@ -2823,7 +2823,7 @@
         "Hazama",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):100%|"
     },
     {
       "name": "Hazama 1st Stage Elite Enemy: Watcher",
@@ -2853,7 +2853,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):1|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):25%|"
     },
     {
       "name": "Hazama 2nd Stage Elite Enemy: Tree of Origin",
@@ -2863,7 +2863,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):1|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):25%|"
     },
     {
       "name": "Hazama 3rd Stage Elite Enemy: Arakune",
@@ -2873,7 +2873,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):2|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):50%|"
     },
     {
       "name": "Hazama 3rd Stage Elite Enemy: Defiling Eye",
@@ -2883,7 +2883,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):2|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):50%|"
     },
     {
       "name": "Hazama 4th Stage Elite Enemy: Oread",
@@ -2893,7 +2893,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):3|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):75%|"
     },
     {
       "name": "Hazama 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -2903,7 +2903,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):3|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):75%|"
     },
     {
       "name": "Hazama 5th Stage Elite Enemy: Floating Mind",
@@ -2913,7 +2913,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):100%|"
     },
     {
       "name": "Hazama 5th Stage Elite Enemy: NAN-01",
@@ -2923,7 +2923,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):100%|"
     },
     {
       "name": "Hazama Advanced Dive Final Elite Enemy: Susanoo",
@@ -2933,7 +2933,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):100%|"
     },
     {
       "name": "Hazama Dive Complete (Advanced 0 Entropy)",
@@ -2942,7 +2942,7 @@
         "Hazama",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):100%|"
     },
     {
       "name": "Hazama Dive Complete (Advanced 20 Entropy)",
@@ -2951,7 +2951,7 @@
         "Hazama",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "Hazama Dive Complete (Advanced 40 Entropy)",
@@ -2960,7 +2960,7 @@
         "Hazama",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "Hazama Dive Complete (Advanced 60 Entropy)",
@@ -2969,7 +2969,7 @@
         "Hazama",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "Hazama Dive Complete (Advanced 80 Entropy)",
@@ -2978,7 +2978,7 @@
         "Hazama",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (Hazama)"
       ]
@@ -2990,7 +2990,7 @@
         "Hazama",
         "DLC"
       ],
-      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|Hazama| AND |Progressive Advanced Stage (Hazama):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "Hazama Dive Complete (Extreme 0 Entropy)",
@@ -3073,7 +3073,7 @@
       "category": [
         "ICEY"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):1|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):25%|"
     },
     {
       "name": "ICEY 3rd Stage Clear (Advanced)",
@@ -3081,7 +3081,7 @@
       "category": [
         "ICEY"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):2|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):50%|"
     },
     {
       "name": "ICEY 4th Stage Clear (Advanced)",
@@ -3089,7 +3089,7 @@
       "category": [
         "ICEY"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):3|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):75%|"
     },
     {
       "name": "ICEY 5th Stage Clear (Advanced)",
@@ -3097,7 +3097,7 @@
       "category": [
         "ICEY"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):100%|"
     },
     {
       "name": "ICEY 1st Stage Elite Enemy: Watcher",
@@ -3124,7 +3124,7 @@
         "ICEY",
         "Elite Enemy"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):1|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):25%|"
     },
     {
       "name": "ICEY 2nd Stage Elite Enemy: Tree of Origin",
@@ -3133,7 +3133,7 @@
         "ICEY",
         "Elite Enemy"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):1|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):25%|"
     },
     {
       "name": "ICEY 3rd Stage Elite Enemy: Arakune",
@@ -3142,7 +3142,7 @@
         "ICEY",
         "Elite Enemy"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):2|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):50%|"
     },
     {
       "name": "ICEY 3rd Stage Elite Enemy: Defiling Eye",
@@ -3151,7 +3151,7 @@
         "ICEY",
         "Elite Enemy"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):2|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):50%|"
     },
     {
       "name": "ICEY 4th Stage Elite Enemy: Oread",
@@ -3160,7 +3160,7 @@
         "ICEY",
         "Elite Enemy"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):3|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):75%|"
     },
     {
       "name": "ICEY 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -3169,7 +3169,7 @@
         "ICEY",
         "Elite Enemy"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):3|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):75%|"
     },
     {
       "name": "ICEY 5th Stage Elite Enemy: Floating Mind",
@@ -3178,7 +3178,7 @@
         "ICEY",
         "Elite Enemy"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):100%|"
     },
     {
       "name": "ICEY 5th Stage Elite Enemy: NAN-01",
@@ -3187,7 +3187,7 @@
         "ICEY",
         "Elite Enemy"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):100%|"
     },
     {
       "name": "ICEY Advanced Dive Final Elite Enemy: Susanoo",
@@ -3196,7 +3196,7 @@
         "ICEY",
         "Elite Enemy"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):100%|"
     },
     {
       "name": "ICEY Dive Complete (Advanced 0 Entropy)",
@@ -3204,7 +3204,7 @@
       "category": [
         "ICEY"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):100%|"
     },
     {
       "name": "ICEY Dive Complete (Advanced 20 Entropy)",
@@ -3212,7 +3212,7 @@
       "category": [
         "ICEY"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "ICEY Dive Complete (Advanced 40 Entropy)",
@@ -3220,7 +3220,7 @@
       "category": [
         "ICEY"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "ICEY Dive Complete (Advanced 60 Entropy)",
@@ -3228,7 +3228,7 @@
       "category": [
         "ICEY"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "ICEY Dive Complete (Advanced 80 Entropy)",
@@ -3236,7 +3236,7 @@
       "category": [
         "ICEY"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (ICEY)"
       ]
@@ -3247,7 +3247,7 @@
       "category": [
         "ICEY"
       ],
-      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|ICEY| AND |Progressive Advanced Stage (ICEY):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "ICEY Dive Complete (Extreme 0 Entropy)",
@@ -3325,7 +3325,7 @@
         "Bullet",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):1|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):25%|"
     },
     {
       "name": "Bullet 3rd Stage Clear (Advanced)",
@@ -3334,7 +3334,7 @@
         "Bullet",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):2|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):50%|"
     },
     {
       "name": "Bullet 4th Stage Clear (Advanced)",
@@ -3343,7 +3343,7 @@
         "Bullet",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):3|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):75%|"
     },
     {
       "name": "Bullet 5th Stage Clear (Advanced)",
@@ -3352,7 +3352,7 @@
         "Bullet",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):100%|"
     },
     {
       "name": "Bullet 1st Stage Elite Enemy: Watcher",
@@ -3382,7 +3382,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):1|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):25%|"
     },
     {
       "name": "Bullet 2nd Stage Elite Enemy: Tree of Origin",
@@ -3392,7 +3392,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):1|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):25%|"
     },
     {
       "name": "Bullet 3rd Stage Elite Enemy: Arakune",
@@ -3402,7 +3402,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):2|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):50%|"
     },
     {
       "name": "Bullet 3rd Stage Elite Enemy: Defiling Eye",
@@ -3412,7 +3412,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):2|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):50%|"
     },
     {
       "name": "Bullet 4th Stage Elite Enemy: Oread",
@@ -3422,7 +3422,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):3|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):75%|"
     },
     {
       "name": "Bullet 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -3432,7 +3432,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):3|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):75%|"
     },
     {
       "name": "Bullet 5th Stage Elite Enemy: Floating Mind",
@@ -3442,7 +3442,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):100%|"
     },
     {
       "name": "Bullet 5th Stage Elite Enemy: NAN-01",
@@ -3452,7 +3452,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):100%|"
     },
     {
       "name": "Bullet Advanced Dive Final Elite Enemy: Susanoo",
@@ -3462,7 +3462,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):100%|"
     },
     {
       "name": "Bullet Dive Complete (Advanced 0 Entropy)",
@@ -3471,7 +3471,7 @@
         "Bullet",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):100%|"
     },
     {
       "name": "Bullet Dive Complete (Advanced 20 Entropy)",
@@ -3480,7 +3480,7 @@
         "Bullet",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "Bullet Dive Complete (Advanced 40 Entropy)",
@@ -3489,7 +3489,7 @@
         "Bullet",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "Bullet Dive Complete (Advanced 60 Entropy)",
@@ -3498,7 +3498,7 @@
         "Bullet",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "Bullet Dive Complete (Advanced 80 Entropy)",
@@ -3507,7 +3507,7 @@
         "Bullet",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (Bullet)"
       ]
@@ -3519,7 +3519,7 @@
         "Bullet",
         "DLC"
       ],
-      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|Bullet| AND |Progressive Advanced Stage (Bullet):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "Bullet Dive Complete (Extreme 0 Entropy)",
@@ -3602,7 +3602,7 @@
       "category": [
         "The Prisoner"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):1|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):25%|"
     },
     {
       "name": "The Prisoner 3rd Stage Clear (Advanced)",
@@ -3610,7 +3610,7 @@
       "category": [
         "The Prisoner"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):2|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):50%|"
     },
     {
       "name": "The Prisoner 4th Stage Clear (Advanced)",
@@ -3618,7 +3618,7 @@
       "category": [
         "The Prisoner"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):3|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):75%|"
     },
     {
       "name": "The Prisoner 5th Stage Clear (Advanced)",
@@ -3626,7 +3626,7 @@
       "category": [
         "The Prisoner"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):100%|"
     },
     {
       "name": "The Prisoner 1st Stage Elite Enemy: Watcher",
@@ -3653,7 +3653,7 @@
         "The Prisoner",
         "Elite Enemy"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):1|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):25%|"
     },
     {
       "name": "The Prisoner 2nd Stage Elite Enemy: Tree of Origin",
@@ -3662,7 +3662,7 @@
         "The Prisoner",
         "Elite Enemy"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):1|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):25%|"
     },
     {
       "name": "The Prisoner 3rd Stage Elite Enemy: Arakune",
@@ -3671,7 +3671,7 @@
         "The Prisoner",
         "Elite Enemy"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):2|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):50%|"
     },
     {
       "name": "The Prisoner 3rd Stage Elite Enemy: Defiling Eye",
@@ -3680,7 +3680,7 @@
         "The Prisoner",
         "Elite Enemy"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):2|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):50%|"
     },
     {
       "name": "The Prisoner 4th Stage Elite Enemy: Oread",
@@ -3689,7 +3689,7 @@
         "The Prisoner",
         "Elite Enemy"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):3|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):75%|"
     },
     {
       "name": "The Prisoner 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -3698,7 +3698,7 @@
         "The Prisoner",
         "Elite Enemy"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):3|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):75%|"
     },
     {
       "name": "The Prisoner 5th Stage Elite Enemy: Floating Mind",
@@ -3707,7 +3707,7 @@
         "The Prisoner",
         "Elite Enemy"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):100%|"
     },
     {
       "name": "The Prisoner 5th Stage Elite Enemy: NAN-01",
@@ -3716,7 +3716,7 @@
         "The Prisoner",
         "Elite Enemy"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):100%|"
     },
     {
       "name": "The Prisoner Advanced Dive Final Elite Enemy: Susanoo",
@@ -3725,7 +3725,7 @@
         "The Prisoner",
         "Elite Enemy"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):100%|"
     },
     {
       "name": "The Prisoner Dive Complete (Advanced 0 Entropy)",
@@ -3733,7 +3733,7 @@
       "category": [
         "The Prisoner"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):100%|"
     },
     {
       "name": "The Prisoner Dive Complete (Advanced 20 Entropy)",
@@ -3741,7 +3741,7 @@
       "category": [
         "The Prisoner"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "The Prisoner Dive Complete (Advanced 40 Entropy)",
@@ -3749,7 +3749,7 @@
       "category": [
         "The Prisoner"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "The Prisoner Dive Complete (Advanced 60 Entropy)",
@@ -3757,7 +3757,7 @@
       "category": [
         "The Prisoner"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "The Prisoner Dive Complete (Advanced 80 Entropy)",
@@ -3765,7 +3765,7 @@
       "category": [
         "The Prisoner"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (The Prisoner)"
       ]
@@ -3776,7 +3776,7 @@
       "category": [
         "The Prisoner"
       ],
-      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|The Prisoner| AND |Progressive Advanced Stage (The Prisoner):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "The Prisoner Dive Complete (Extreme 0 Entropy)",
@@ -3854,7 +3854,7 @@
         "Naoto",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):1|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):25%|"
     },
     {
       "name": "Naoto 3rd Stage Clear (Advanced)",
@@ -3863,7 +3863,7 @@
         "Naoto",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):2|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):50%|"
     },
     {
       "name": "Naoto 4th Stage Clear (Advanced)",
@@ -3872,7 +3872,7 @@
         "Naoto",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):3|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):75%|"
     },
     {
       "name": "Naoto 5th Stage Clear (Advanced)",
@@ -3881,7 +3881,7 @@
         "Naoto",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):100%|"
     },
     {
       "name": "Naoto 1st Stage Elite Enemy: Watcher",
@@ -3911,7 +3911,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):1|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):25%|"
     },
     {
       "name": "Naoto 2nd Stage Elite Enemy: Tree of Origin",
@@ -3921,7 +3921,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):1|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):25%|"
     },
     {
       "name": "Naoto 3rd Stage Elite Enemy: Arakune",
@@ -3931,7 +3931,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):2|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):50%|"
     },
     {
       "name": "Naoto 3rd Stage Elite Enemy: Defiling Eye",
@@ -3941,7 +3941,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):2|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):50%|"
     },
     {
       "name": "Naoto 4th Stage Elite Enemy: Oread",
@@ -3951,7 +3951,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):3|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):75%|"
     },
     {
       "name": "Naoto 4th Stage Elite Enemy: NAN-FIRE BITE",
@@ -3961,7 +3961,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):3|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):75%|"
     },
     {
       "name": "Naoto 5th Stage Elite Enemy: Floating Mind",
@@ -3971,7 +3971,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):100%|"
     },
     {
       "name": "Naoto 5th Stage Elite Enemy: NAN-01",
@@ -3981,7 +3981,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):100%|"
     },
     {
       "name": "Naoto Advanced Dive Final Elite Enemy: Susanoo",
@@ -3991,7 +3991,7 @@
         "Elite Enemy",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):100%|"
     },
     {
       "name": "Naoto Dive Complete (Advanced 0 Entropy)",
@@ -4000,7 +4000,7 @@
         "Naoto",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):100%|"
     },
     {
       "name": "Naoto Dive Complete (Advanced 20 Entropy)",
@@ -4009,7 +4009,7 @@
         "Naoto",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:1|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):100%| AND |Progressive Advanced Entropy Limit:1|"
     },
     {
       "name": "Naoto Dive Complete (Advanced 40 Entropy)",
@@ -4018,7 +4018,7 @@
         "Naoto",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:2|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):100%| AND |Progressive Advanced Entropy Limit:2|"
     },
     {
       "name": "Naoto Dive Complete (Advanced 60 Entropy)",
@@ -4027,7 +4027,7 @@
         "Naoto",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:3|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):100%| AND |Progressive Advanced Entropy Limit:3|"
     },
     {
       "name": "Naoto Dive Complete (Advanced 80 Entropy)",
@@ -4036,7 +4036,7 @@
         "Naoto",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:4|",
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):100%| AND |Progressive Advanced Entropy Limit:4|",
       "place_item": [
         "Advanced 80 Entropy Clear (Naoto)"
       ]
@@ -4048,7 +4048,7 @@
         "Naoto",
         "DLC"
       ],
-      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):4| AND |Progressive Advanced Entropy Limit:5|"
+      "requires": "|Naoto| AND |Progressive Advanced Stage (Naoto):100%| AND |Progressive Advanced Entropy Limit:5|"
     },
     {
       "name": "Naoto Dive Complete (Extreme 0 Entropy)",
@@ -4124,7 +4124,7 @@
       "category": [
         "- Goal -"
       ],
-      "requires": "|@Extreme Clear:5|"
+      "requires": "{CheckGoal()}"
     }
   ]
 }

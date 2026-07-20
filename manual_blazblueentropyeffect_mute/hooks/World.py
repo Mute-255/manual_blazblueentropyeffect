@@ -43,6 +43,13 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     This is the earliest hook called during generation, before anything else is done.
     Use it to check or modify incompatible options, or to set up variables for later use.
     """
+
+    if hasattr(multiworld, "re_gen_passthrough"):
+        slot_data = multiworld.re_gen_passthrough.get(world.game, {})
+        world.goal_win_count = slot_data['prototype_win_count']
+    else:
+        world.goal_win_count = get_option_value(multiworld, player, "prototype_win_count")
+    logging.info(f"Prototype Win Count set to {world.goal_win_count} for player {player}.")
     pass
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
@@ -51,16 +58,18 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
+    pass
+
     # Use this hook to remove locations from the world
-    locationNamesToRemove: list[str] = [] # List of location names
+    # locationNamesToRemove: list[str] = [] # List of location names
 
-    # Add your code here to calculate which locations to remove
+    # # Add your code here to calculate which locations to remove
 
-    for region in multiworld.regions:
-        if region.player == player:
-            for location in list(region.locations):
-                if location.name in locationNamesToRemove:
-                    region.locations.remove(location)
+    # for region in multiworld.regions:
+    #     if region.player == player:
+    #         for location in list(region.locations):
+    #             if location.name in locationNamesToRemove:
+    #                 region.locations.remove(location)
 
 # This hook allows you to access the item names & counts before the items are created. Use this to increase/decrease the amount of a specific item in the pool
 # Valid item_config key/values:
@@ -84,6 +93,9 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
                     item_config[item_name] = item_val + 1
     if proto_count < 6:
         raise OptionError(f"Not enough Prototypes in the item pool, {proto_count} / 6 required.")
+    if world.goal_win_count > proto_count:
+        world.goal_win_count = proto_count
+        logging.info(f"Prototype Win Count was higher than the number of unique Prototypes in the pool, clamping to {proto_count}.")
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage

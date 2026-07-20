@@ -24,7 +24,7 @@ for char in char_list:
             "name": f"{char} {ordinal(i+1)} Stage Clear (Advanced)",
             "region": "Advanced Difficulty",
             "category": [char, "DLC"] if char in dlc_list else [char],
-            "requires": f"|{char}|" if i == 0 else f"|{char}| AND |Progressive Advanced Stage ({char}):{i}|"
+            "requires": f"|{char}|" if i == 0 else f"|{char}| AND |Progressive Advanced Stage ({char}):{i*25}%|"
         })
 
     # elite enemy defeats
@@ -33,14 +33,14 @@ for char in char_list:
             "name": f"{char} {ordinal((i//2)+1)} Stage Elite Enemy: {elite}",
             "region": "Advanced Difficulty",
             "category": [char, "Elite Enemy", "DLC"] if char in dlc_list else [char, "Elite Enemy"],
-            "requires": f"|{char}|" if i < 2 else f"|{char}| AND |Progressive Advanced Stage ({char}):{i//2}|"
+            "requires": f"|{char}|" if i < 2 else f"|{char}| AND |Progressive Advanced Stage ({char}):{(i//2)*25}%|"
         })
 
     final_json["data"].append({
         "name": f"{char} Advanced Dive Final Elite Enemy: Susanoo",
         "region": "Advanced Difficulty",
         "category": [char, "Elite Enemy", "DLC"] if char in dlc_list else [char, "Elite Enemy"],
-        "requires": f"|{char}| AND |Progressive Advanced Stage ({char}):4|"
+        "requires": f"|{char}| AND |Progressive Advanced Stage ({char}):100%|"
     })
 
     # advanced dive clears
@@ -49,7 +49,7 @@ for char in char_list:
             "name": f"{char} Dive Complete (Advanced {i*20} Entropy)",
             "region": "Advanced Difficulty",
             "category": [char, "DLC"] if char in dlc_list else [char],
-            "requires": f"|{char}| AND |Progressive Advanced Stage ({char}):4|" + ("" if i == 0 else f" AND |Progressive Advanced Entropy Limit:{i}|")
+            "requires": f"|{char}| AND |Progressive Advanced Stage ({char}):100%|" + ("" if i == 0 else f" AND |Progressive Advanced Entropy Limit:{i}|")
         }
         if (i == 4):
             dive_block["place_item"] = [f"Advanced 80 Entropy Clear ({char})"]
@@ -79,7 +79,7 @@ final_json["data"].append({
     "victory": True,
     "region": "Extreme Difficulty",
     "category": ["- Goal -"],
-    "requires": "|@Extreme Clear:5|"
+    "requires": "{CheckGoal()}"
 })
 
 with open('locations.json', 'w') as f:
