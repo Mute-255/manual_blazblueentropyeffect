@@ -295,7 +295,8 @@
       "name": "Progressive Advanced Stage (Rachel)",
       "category": [
         "Stage",
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "progression": true
     },
@@ -304,7 +305,8 @@
       "name": "Advanced 80 Entropy Clear (Rachel)",
       "category": [
         "Advanced Clear",
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "progression_skip_balancing": true
     },
@@ -313,7 +315,8 @@
       "name": "Extreme 80 Entropy Clear (Rachel)",
       "category": [
         "Extreme Clear",
-        "Rachel"
+        "Rachel",
+        "DLC"
       ],
       "progression_skip_balancing": true
     },
@@ -457,7 +460,8 @@
       "name": "Progressive Advanced Stage (Hazama)",
       "category": [
         "Stage",
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "progression": true
     },
@@ -466,7 +470,8 @@
       "name": "Advanced 80 Entropy Clear (Hazama)",
       "category": [
         "Advanced Clear",
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "progression_skip_balancing": true
     },
@@ -475,7 +480,8 @@
       "name": "Extreme 80 Entropy Clear (Hazama)",
       "category": [
         "Extreme Clear",
-        "Hazama"
+        "Hazama",
+        "DLC"
       ],
       "progression_skip_balancing": true
     },
@@ -511,7 +517,8 @@
       "name": "Progressive Advanced Stage (Bullet)",
       "category": [
         "Stage",
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "progression": true
     },
@@ -520,7 +527,8 @@
       "name": "Advanced 80 Entropy Clear (Bullet)",
       "category": [
         "Advanced Clear",
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "progression_skip_balancing": true
     },
@@ -529,7 +537,8 @@
       "name": "Extreme 80 Entropy Clear (Bullet)",
       "category": [
         "Extreme Clear",
-        "Bullet"
+        "Bullet",
+        "DLC"
       ],
       "progression_skip_balancing": true
     },
@@ -565,7 +574,8 @@
       "name": "Progressive Advanced Stage (Naoto)",
       "category": [
         "Stage",
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "progression": true
     },
@@ -574,7 +584,8 @@
       "name": "Advanced 80 Entropy Clear (Naoto)",
       "category": [
         "Advanced Clear",
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "progression_skip_balancing": true
     },
@@ -583,7 +594,8 @@
       "name": "Extreme 80 Entropy Clear (Naoto)",
       "category": [
         "Extreme Clear",
-        "Naoto"
+        "Naoto",
+        "DLC"
       ],
       "progression_skip_balancing": true
     },
