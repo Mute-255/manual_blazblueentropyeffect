@@ -22,43 +22,40 @@ from ..Items import item_name_groups
 #####################################################################
 
 class IncludeDLCPrototypes(Toggle):
-    """Whether DLC Prototypes should be included in generation. If you don't want all of them, you can pick and choose in excluded_prototypes"""
+    """Whether DLC Prototypes should be included in generation. If you don't want all of them, you can exclude them in excluded_prototypes"""
     display_name = "Include DLC Prototypes"
 
 class ExcludedPrototypes(OptionSet):
     """Protoypes in this list will be excluded from generation completely. There must be at least 6 unique Protoypes in the pool. 
     Valid list of Prototypes:
-    Hibiki, Ragna, Noel, Λ -No.11-, Es, Rachel, Taokaka, Jin, Kokonoe, Hakumen, Mai, Hazama, ICEY, Bullet, The Prisoner, Naoto"""
+    'Hibiki', 'Ragna', 'Noel', 'Λ -No.11-', 'Es', 'Rachel', 'Taokaka', 'Jin', 'Kokonoe', 'Hakumen', 'Mai', 'Hazama', 'ICEY', 'Bullet', 'The Prisoner', 'Naoto'"""
     display_name = "Excluded Prototypes"
     valid_keys = item_name_groups["Prototypes"]
     default = []
 
 class DuplicatePrototypes(OptionSet):
     """Prototypes in this list will be duplicated in generation, increasing the chances of getting them.
-    There's no guarantee where the duplicate will appear. Getting a Prototype twice does nothing. Excluded Protoypes are ignored. 
-    Valid list of Prototypes:
-    Hibiki, Ragna, Noel, Λ -No.11-, Es, Rachel, Taokaka, Jin, Kokonoe, Hakumen, Mai, Hazama, ICEY, Bullet, The Prisoner, Naoto"""
+    Getting a Prototype twice does nothing. Excluded Protoypes are ignored. 
+    Valid list of Prototypes: 
+    'Hibiki', 'Ragna', 'Noel', 'Λ -No.11-', 'Es', 'Rachel', 'Taokaka', 'Jin', 'Kokonoe', 'Hakumen', 'Mai', 'Hazama', 'ICEY', 'Bullet', 'The Prisoner', 'Naoto'"""
     display_name = "Duplicate Prototypes"
     valid_keys = item_name_groups["Prototypes"]
     default = []
 
 class PrototypeWinCount(Range):
-    """The number of unique Prototypes that need to complete Extreme 80 Entropy to complete the goal. 
+    """The number of Prototypes that need to complete Extreme 80 Entropy to complete the goal.
     Will automatically be lowered to the number of unique Prototypes in the pool if higher."""
     display_name = "Prototype Win Count"
     range_start = 3
     range_end = 16
     default = 5
 
-# To add an option, use the before_options_defined hook below and something like this:
-#   options["total_characters_to_win_with"] = TotalCharactersToWinWith
-#
-class TotalCharactersToWinWith(Range):
-    """Instead of having to beat the game with all characters, you can limit locations to a subset of character victory locations."""
-    display_name = "Number of characters to beat the game with before victory"
-    range_start = 10
-    range_end = 50
-    default = 50
+class ReducedStageUnlocks(Toggle):
+    """If enabled, the number of progressive stage unlock items for each Prototype will be reduced from 4 to 2.
+    By default with this option off, each Prototype has 4 stage unlock items for stages 2-5.
+    If on, instead stages 2 & 3 are unlocked from the 1st unlock item and stages 4 & 5 unlocked from the 2nd.
+    Only recommended if the default playthrough feels too long."""
+    display_name = "Reduced Stage Unlocks"
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
@@ -66,6 +63,7 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
     options["excluded_prototypes"] = ExcludedPrototypes
     options["duplicate_prototypes"] = DuplicatePrototypes
     options["prototype_win_count"] = PrototypeWinCount
+    options["reduced_stage_unlocks"] = ReducedStageUnlocks
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
@@ -82,7 +80,6 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
 
 # Use this Hook if you want to add your Option to an Option group (existing or not)
 def before_option_groups_created(groups: dict[str, list[Type[Option[Any]]]]) -> dict[str, list[Type[Option[Any]]]]:
-    # Uses the format groups['GroupName'] = [TotalCharactersToWinWith]
     return groups
 
 def after_option_groups_created(groups: list[OptionGroup]) -> list[OptionGroup]:
